@@ -1,10 +1,14 @@
 # ☣ Seguridad
 
+<p align="center">
+  <img src="https://i.postimg.cc/VvWTQ6rD/reporting-bugs.png" width="100px">
+</p>
+
 Para reportar una vulnerabilidad, simplemente abra un problema. Intentaremos parchearlo rápidamente.
 
-`ZERHO COOL` se toma muy en serio la seguridad de nuestros productos y servicios de software, incluidos todos los repositorios de código fuente abierto administrados a través de nuestra empresa.
+`DATA GROUP` se toma muy en serio la seguridad de nuestros productos y servicios de software, incluidos todos los repositorios de código fuente abierto administrados a través de nuestra empresa.
 
-Si cree que ha encontrado una vulnerabilidad de seguridad en cualquier repositorio propiedad de `ZERHO COOL`, infórmenos a través de la divulgación coordinada.
+Si cree que ha encontrado una vulnerabilidad de seguridad en cualquier repositorio propiedad de `DATA GROUP`, infórmenos a través de la divulgación coordinada.
 
 Envíe un correo electrónico a [DATA GROUP](mailto:datagroupssl@gmail.com) Ref. SEGURIDAD<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Megaphone.webp" alt="Megaphone" width="40" height="40" />
 
@@ -23,16 +27,6 @@ Incluya tanta información como pueda de la lista a continuación para ayudarnos
 
     - Impacto del problema, incluida la forma en que un atacante podría explotar el problema
 
-Gracias por ayudar a que `ZERHO COOL` sea seguro para todos.
+Gracias por ayudar a que `DATA GROUP` sea seguro para todos.
 
 ---
-
-## Licencia 📄
-
-- Copyright © 2014-present DATA GROUP - ANDRES ANTONIO CARDOSO.
-
-<a rel="licencia" href="https://www.gnu.org/"><img alt="Licencia GNU General Publica " style="border-width:0" src="https://i.postimg.cc/YC06YTyy/GFDL-Logo-svg.png" height="50"  /></a><br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/fdl-1.3.html">Licencia de Documentación Gratuita de GNU ( GFDL v1.3 )</a>
-
----
-
-<p>Diseño y Desarrollo por DATA GROUP - Copyrigh © 2014-present DATA GROUP - Todos los derechos reservados.</p>

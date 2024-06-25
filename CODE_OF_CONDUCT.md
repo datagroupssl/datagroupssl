@@ -132,13 +132,3 @@ For answers to common questions about this code of conduct, see the FAQ at
 [translations]: https://www.contributor-covenant.org/translations
 
 ---
-
-## Licencia 📄
-
-- Copyright © 2014-present DATA GROUP - ANDRES ANTONIO CARDOSO.
-
-<a rel="licencia" href="https://www.gnu.org/"><img alt="Licencia GNU General Publica " style="border-width:0" src="https://i.postimg.cc/YC06YTyy/GFDL-Logo-svg.png" height="50"  /></a><br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/fdl-1.3.html">Licencia de Documentación Gratuita de GNU ( GFDL v1.3 )</a>
-
----
-
-<p>Diseño y Desarrollo por DATA GROUP - Copyrigh © 2014-present DATA GROUP - Todos los derechos reservados.</p>

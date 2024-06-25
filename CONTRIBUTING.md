@@ -1,46 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta charset="UTF-8"/>
-  <meta content="width=device-width, initial-scale=1" name="viewport" />
-  <meta name="DC.Language" scheme="RFC1766" content="Spanish">
-  <meta name="autor" content="Andres Antonio Cardoso">
-  <meta name="reply-to" content="datagroupssl@gmail.com">
-  <link rev="made" href="mailto:datagroupssl@gmail.com">
-  <meta name="description" content="Andres Antonio Cardoso, Developer Full Stack y Diseñador Grafico.">
-  <meta name="copyright" content="Propietario del copyright" />
-  <meta name="keywords" contennt="desarrollo web, website, front end developer">
-  <meta name="Resource-type" content="Index">
-  <meta name="Revisit-after" content="1 days">
-  <meta name="robots" content="all">
- <title>⠀</title>
-</head>
-<body>
-
-<!-- INICIO BANNER -->
-
-## HOLA BIENVENIDO⠀!!!.<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px">
+# CONTRIBUCIONES⠀
 
 
-<!-- INICIO TYPING  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Contributing+;v1.0.0+%F0%9F%98%84;" alt="Typing SVG" /></a>
-</p>
-
----
-
-<!-- PROJECTO LOGO -->
 <br />
 <div align="center">
   <a href="#">
-    <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1097370741336453170/paint.png" alt="Logo" width="100">
+    <img src="https://i.postimg.cc/522cJwmv/documentation.png" alt="Logo" width="100">
   </a>
 
-  <h3 align="center">Contributing by DATA GROUP</h3>
+  <h3 align="center">Contribuciones by DATA GROUP</h3>
 
   <p align="center">
     ¡Un increíble README para impulsar sus proyectos!!
@@ -56,14 +23,12 @@
   </p>
 </div>
 
-<!-- INICIO EL PROYECTO -->
-
-# TITULO DEL PROYECTO
+## PROYECTO
 
 ## Guia de Inicio
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1163829179175940177/wallpaperflare2-min.jpg?ex=6540ff63&is=652e8a63&hm=7222b3127715b0b37cf92d49252f08b62dab0aebae9c5bd1166c83354c14a076&&" alt="Logo" width="400">
+<img src="https://i.postimg.cc/VkVvXDn8/grid-1.png" alt="Logo" width="400">
 </div>
 
 ### 📌- DATA GROUP es un estudio creativo que da forma a las marcas del mañana.
@@ -84,7 +49,7 @@
 
 🚨- Estos son algunos archivos `importantes` que encontraras en nuestros proyectos tomate tu tiempo para leerlos.
 
-`CONTRIBUTORS.md` ,`LICENSE.md` y`CODE_OF_CONDUCT.md`
+👉 `CONTRIBUTORS.md` ,`LICENSE.md` y`CODE_OF_CONDUCT.md` 👈
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -193,7 +158,7 @@ DATA GROUP es una empresa que cuenta con 3 areas de trabajo son:
 
 Esto incluye no solamente como se comunican con los demás (siendo respetoso, considerado, etc) sino también en las responsabilidades técnicas (la importancia de hacer testing, dependencias de proyecto, etc).
 
-- Revisa el `CODE_OF_CONDUCT.md`
+- Revisa el `CODE_OF_CONDUCT.md` 👈
 
 `Responsabilidades:`
 
@@ -247,7 +212,6 @@ Aun no sabes como empezar a contribuir con Zerho Cool? Puedes empezar revisando 
 - [Realizar un PULL REQUEST](https://www.youtube.com/watch?v=ZmrP2G9FSzw&t=11s)⠀Video tutorial en YouTube<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Megaphone.webp" alt="Megaphone" width="50" height="50" />
 
 - [Realizar un ISSUE](https://www.youtube.com/watch?v=m1_O7tIBCy4&t=79s)⠀Video tutorial en YouTube<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Megaphone.webp" alt="Megaphone" width="50" height="50" />
-
 
 <p align="right">(<a href="#bonus">back to top</a>)</p>
 
@@ -422,8 +386,8 @@ Estas secciones no son necesarias, pero pueden ayudar a orientar las contribucio
 ## AUTORES
 
 - [Github @datagroupssl](https://github.com/datagroupssl) DATA GROUP - Developer Full Stack
-- [Github @datagroupssl](https://github.com/datagroupssl)  DATA GROUP - Dieñador Grafico
-- [Github @datagroupssl](https://github.com/datagroupssl)  DATA GROUP - Documentacion
+- [Github @datagroupssl](https://github.com/datagroupssl) DATA GROUP - Dieñador Grafico
+- [Github @datagroupssl](https://github.com/datagroupssl) DATA GROUP - Documentacion
 - [Github @datagroupssl](https://github.com/datagroupssl) DATA GROUP - Administrador
 
 ---
@@ -431,21 +395,6 @@ Estas secciones no son necesarias, pero pueden ayudar a orientar las contribucio
 ## Póngase en contacto:
 
 ### Resuelva sus inquietudes sobre los productos, las ventas, el soporte, la capacitación, los servicios y otros temas.
-
-<a href="#"><img width="40px" alt="Horario" src="./src/svg-png/ng-europe.svg"/></a> Casi todos mis proyectos son código abierto e intento responder a todos los usuarios que necesiten ayuda con alguno de estos proyectos, obviamente, esto toma tiempo.
-
-<a href="#"><img width="40px" alt="Horario" src="./src/svg-png/ng-europe.svg"/></a> No obstante, si estás utilizando este proyecto y estás feliz con él o simplemente quieres animarme a que siga creando cosas, aquí tienes algunas maneras de hacerlo:
-
-- ✔ Darme créditos cuando estés utilizando este README, añadiendo un link a este repositorio ⭐
-
-- ✔ Dándole una estrella (starring) y compartiendo el proyecto 🚀
-
-<p align="left">
-  <a target="_blank" href="https://github.com/datagroupssl">
-   <img src="https://custom-icon-badges.demolab.com/badge/-Share mi link-blue?style=for-the-badge&logo=share&logoColor=white" alt=""></a>
-</p>
-
-<img align="right" alt="Secretaria" width="150" src="https://i.postimg.cc/0QTx2bNv/secretaria2.jpg">
 
 ### Ubicacion:
 
@@ -461,12 +410,11 @@ Estas secciones no son necesarias, pero pueden ayudar a orientar las contribucio
   <a href="datagroupssl@gmail.com"><img width="230px" alt="Email" title="datagroupssl@gmail.com" src="https://custom-icon-badges.demolab.com/badge/-datagroupssl@gmail.com-purple?style=for-the-badge&logo=l&logoColor=white"/></a>
 </p>
 
-
 ---
 
 ## FORMAS DE PAGO⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Classical%20Building.webp" alt="Classical Building" width="35" height="35" />
 
-Medios de pagos que aceptamos Euros y Tarjetas de credito en el mundo:
+Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mundo:
 
 <p align="center">
   <a href="#"><img width="60px" alt="Visa" title="Visa" src="./src/svg-png/visa.svg"/></a>
@@ -479,24 +427,11 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito en el mundo:
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="50px" alt="Bitcoin" title="Bitcoin" src="./src/svg-png/bitcoin-icon.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="#"><img width="50px" alt="TON" title="Toncoin" src="./src/svg-png/toncoin-ton-logo.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="#"><img width="50px" alt="USDT" title="Tether" src="./src/svg-png/tether-usdt-logo.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
----
-
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀TRANSFERENCIAS Y BITCOIN
-
-- ✔ CVU: `0000177500000006134907`
-
-<img src="https://custom-icon-badges.demolab.com/badge/-Usuarios en Telegram-blue?style=for-the-badge&logo=&logoColor=white" alt="">
-
-- ✔ BTC: `1LiJgSrQc4tTyBcsVK6DMxMC3J8DJ5FzMD`
-
-- ✔ USDT Red TRC20: `TRbepPuT16zyViiyr4vBrG614XhFcjL9WV`
-
-- ✔ Toncoin TON: `UQAukJzjgRpPJ6aMSWqsttfiBycB7ekDcNvDE9TSQcJyRyzD`
-
-- ✔ Usuario Telegram: @zerhocool
 
 <p align="center">
   <a href="https://paypal.me/datagroupssl?country.x=AR&locale.x=es_XC" target="_blank">
@@ -506,10 +441,23 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito en el mundo:
 
 ---
 
-> [!TIP]
-> Leer👷 En Argentina Solo Dolares a la cotizacion `BLUE` del dia, en efectivo. `SIN EXEPCIONES` debido a la situacion que atravieza el pais, SOLO CLIENTES.
+<details open> 
+  <summary><h3>🛎️ TRANSFERENCIAS</h3></summary>
 
-## Puedes ayudarme invitandome un cafe.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20With%20Wings.webp" alt="Money With Wings" width="35" height="35" />
+<img src="https://flagcdn.com/24x18/ee.png" srcset="https://flagcdn.com/48x36/ee.png 2x,
+    https://flagcdn.com/72x54/ee.png 3x" width="24" height="18" alt="Estonia">⠀CVU: `0070067230004033073612`
+
+<a href="#"><img width="30px" alt="Bitcoin" title="Bitcoin" src="./src/svg-png/bitcoin-icon.svg"/></a>`1LiJgSrQc4tTyBcsVK6DMxMC3J8DJ5FzMD`
+
+<a href="#"><img width="30px" alt="USDT" title="Tether" src="./src/svg-png/tether-usdt-logo.svg"/></a> Red TRC20: `TRbepPuT16zyViiyr4vBrG614XhFcjL9WV`
+
+<a href="#"><img width="30px" alt="Bitcoin" title="Bitcoin" src="./src/svg-png/toncoin-ton-logo.svg"/></a>`UQAukJzjgRpPJ6aMSWqsttfiBycB7ekDcNvDE9TSQcJyRyzD`
+
+</details>
+
+---
+
+### Puedes ayudarme invitandome un cafe.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20With%20Wings.webp" alt="Money With Wings" width="35" height="35" />
 
 <a href="https://payment-link.astropay.com/pnt5"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
@@ -525,7 +473,7 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito en el mundo:
 
 - [@vuejs](https://github.com/vuejs)⠀Framework que utilizamos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Megaphone.webp" alt="Megaphone" width="50" height="50" />
 
-- [@ohmyzsh-zerhocool](https://github.com/zerhocool/ohmyzsh-zerhocool)⠀Terminal Personalizada<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Megaphone.webp" alt="Megaphone" width="50" height="50" />
+- [@ohmyzsh-datagroupssl](https://github.com/datagroupssl/ohmyzsh)⠀Terminal Personalizada<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Megaphone.webp" alt="Megaphone" width="50" height="50" />
 
 <p align="right">(<a href="#agradecimientos">back to top</a>)</p>
 
@@ -533,25 +481,12 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito en el mundo:
 
 ## Apoyamos esta causa⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="35" height="35" />
 
-<p><a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg" alt="Stand With Ukraine"></a></p>
+<img src="https://i.postimg.cc/J76p27Gm/fira.png">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Licencia 📄
 
-- Copyright © 2014-present DATA GROUP - ANDRES ANTONIO CARDOSO.
-
-<a rel="licencia" href="https://www.gnu.org/"><img alt="Licencia GNU General Publica " style="border-width:0" src="https://i.postimg.cc/YC06YTyy/GFDL-Logo-svg.png" height="50"  /></a><br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/fdl-1.3.html">Licencia de Documentación Gratuita de GNU ( GFDL v1.3 )</a>
-
----
-
 <p>Diseño y Desarrollo por DATA GROUP - Copyrigh © 2014-present DATA GROUP - Todos los derechos reservados.</p>
 
-<img alt="Licencia GNU General Publica " style="border-width:0" src="https://i.postimg.cc/PxWYdHPN/gplv3-with-text-136x68.png" />⠀⠀⠀⠀<img alt="Software Freedom Conservancy " style="border-width:0" src="https://i.postimg.cc/fb0Ygmsc/conservancy-header.png" />⠀⠀⠀⠀⠀<br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/gpl-3.0.html">Licencia GNU General Publica (GNU GPL v3.0) -</a>
-<a rel="licencia" href="https://sfconservancy.org/">Software Freedom Conservancy.</a>
-
 ---
-
-</body>
-
-</html>

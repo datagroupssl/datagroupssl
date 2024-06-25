@@ -16,7 +16,7 @@
   <meta name="Resource-type" content="Index">
   <meta name="Revisit-after" content="1 days">
   <meta name="robots" content="all">
- <title>⠀</title>
+ <title>PROFILE GITHUB</title>
 </head>
 <body>
 
@@ -57,8 +57,8 @@
 <!-- INICIO BADGES -->
 
 <p align="left">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits">⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">⠀<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website ">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=main%20-%20OK" alt="Project Badge">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">⠀<img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License">⠀<img src="https://img.shields.io/badge/Version-2.0.0-green.svg" alt="">⠀<a href="https://github.com/datagroupssl/standard-readme">⠀<img src="https://img.shields.io/badge/readme%20style-PRO-brightgreen.svg?style=flat-square" alt="standard-readme compliant"></a>⠀<img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />⠀<img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt">⠀<img src="https://madewithlove.now.sh/es?heart=true&amp;text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&amp;colorA=%23400000" alt="Made with love in Estonia">⠀ <a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="Stand With Ukraine"></a>
-  </p>
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits">⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">⠀<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website ">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">⠀<img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License">⠀<img src="https://img.shields.io/badge/Version-2.0.0-green.svg" alt="">⠀<a href="https://github.com/datagroupssl/standard-readme">⠀<img src="https://img.shields.io/npm/v/@semantic-release/npm/latest.svg">⠀<img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status">⠀<img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt">⠀<img src="https://madewithlove.now.sh/es?heart=true&amp;text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&amp;colorA=%23400000" alt="Made with love in Estonia"></a>
+</p>
 
 <p align="left">
   <img src="./src/svg-png/4k-ultra-hd.svg" width="210">
@@ -68,6 +68,7 @@
 <a href="https://t.me/zerhocool"><img src="https://img.shields.io/badge/-@zerhocool-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=telegram&amp;logoColor=white&amp;link=https://t.me/zerhocool" alt="Telegram Badge"></a>
 <a href="https://www.youtube.com/@zerhocool"><img src="https://img.shields.io/badge/-@zerhocool-purple?style=flat&amp;logo=youtube&amp;logoColor=white&amp;link=https://www.youtube.com/@zerhocool" alt="Youtube Badge"></a>
 <a href="mailto:datagroupssl@gmail.com"><img src="https://img.shields.io/badge/-datagroupssl-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:datagroupssl@gmail.com" alt="Gmail Badge"></a>
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25956%26project%3D%26in=0">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -78,23 +79,20 @@
 <p align="center">
     <i>PROXIMAMENTE, la traduccion en:</i>⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Locked%20With%20Key.webp" alt="Locked With Key" width="35" height="35" />
     <br/><br/>
-    <a href="https://github.com/zerhocool"><img src="https://flagcdn.com/24x18/ad.png" srcset="https://flagcdn.com/48x36/ad.png 2x,
-    https://flagcdn.com/72x54/ad.png 3x" width="24" height="18" alt="Andorra">⠀</a>
-    <a href="https://github.com/zerhocool"><img src="https://flagcdn.com/24x18/us.png" srcset="https://flagcdn.com/48x36/us.png 2x,
+    <a href="https://github.com/datagroupssl"><img src="https://flagcdn.com/24x18/us.png" srcset="https://flagcdn.com/48x36/us.png 2x,
     https://flagcdn.com/72x54/us.png 3x" width="24" height="18" alt="Estados Unidos">⠀</a>
-    <a href="https://github.com/zerhocool"><img src="https://flagcdn.com/24x18/fr.png" srcset="https://flagcdn.com/48x36/fr.png 2x,
+    <a href="https://github.com/datagroupssl"><img src="https://flagcdn.com/24x18/fr.png" srcset="https://flagcdn.com/48x36/fr.png 2x,
     https://flagcdn.com/72x54/fr.png 3x" width="24" height="18" alt="Francia">⠀</a>
-    <a href="https://github.com/zerhocool"><img src="https://flagcdn.com/24x18/it.png" srcset="https://flagcdn.com/48x36/it.png 2x,
+    <a href="https://github.com/datagroupssl"><img src="https://flagcdn.com/24x18/it.png" srcset="https://flagcdn.com/48x36/it.png 2x,
     https://flagcdn.com/72x54/it.png 3x" width="24" height="18" alt="Italia">⠀</a>
-    <a href="https://github.com/zerhocool"><img src="https://flagcdn.com/24x18/ee.png" srcset="https://flagcdn.com/48x36/ee.png 2x,
+    <a href="https://github.com/datagroupssl"><img src="https://flagcdn.com/24x18/ee.png" srcset="https://flagcdn.com/48x36/ee.png 2x,
     https://flagcdn.com/72x54/ee.png 3x" width="24" height="18" alt="Estonia">⠀</a> 
-    <a href="https://github.com/zerhocool"><img src="https://flagcdn.com/24x18/au.png" srcset="https://flagcdn.com/48x36/au.png 2x,
+    <a href="https://github.com/datagroupssl"><img src="https://flagcdn.com/24x18/au.png" srcset="https://flagcdn.com/48x36/au.png 2x,
     https://flagcdn.com/72x54/au.png 3x" width="24" height="18" alt="Australia">⠀</a>
 </p>
 
 - [Best Template PRO](https://github.com/datagroupssl) Lanzamiento<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Megaphone.webp" alt="Megaphone" width="60" height="60" />
 
-- Migrando nuestro sistema a Web3
 
 <p align="center">
   <a href="https://github.com/datagroupssl/datagroupssl/issues"><img src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=issue-opened" alt="open issue"></a>
@@ -125,7 +123,7 @@
 
 ### 👱 Hola, soy ZERHO COOL un Developer Full Stack y Diseñador Grafico, desde España al mundo.
 
-<h3 align="left">📌- Mis inicios fueron en 1996 trabajar como Programador Freelancer, emigre a España y funde mi propia empresa DATA GROUP en el año 2014, me especializo en Python, Javascript, Vue, Kali, etc. con + 10 años de experiencia. Actualmente con repositorios privados en otras plataformas, los cuales estoy migrando a GitLab.</h3>
+<h3 align="left">📌- Mis inicios fueron en 1996 trabaje como Programador Freelancer, emigre a España y funde mi propia empresa DATA GROUP en el año 2014, me especializo en Python, Javascript, Vue, Kali, Arch Linux, etc. con + 10 años de experiencia. Actualmente con repositorios privados en otras plataformas, los cuales estoy migrando a GitLab.</h3>
 
 <br>
 
@@ -198,8 +196,8 @@ El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
 <br>
 
 <p align="center">
-  <a href="https://github.com/datagroupssl/datagroupssl" target="blank"><img align="center" width="150px" src="https://i.postimg.cc/LssmxcWc/profile.jpg"/></a>&nbsp;&nbsp;<a href="https://github.com/datagroupssl/metrics" target="blank"><img align="center" width="150px" src="https://i.postimg.cc/g2HQrdpf/profile2.jpg"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/datagroupssl/ohmyzsh" target="blank"><img align="center" width="150px" src="https://i.postimg.cc/7ZZpB6H3/omz-ansi-github.png"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/datagroupssl/datagroupssl" target="blank"><img align="center" width="260px" src="https://i.postimg.cc/LssmxcWc/profile.jpg"/></a>&nbsp;&nbsp;<a href="https://github.com/datagroupssl/metrics" target="blank"><img align="center" width="260px" src="https://i.postimg.cc/g2HQrdpf/profile2.jpg"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/datagroupssl/ohmyzsh" target="blank"><img align="center" width="260px" src="https://i.postimg.cc/7ZZpB6H3/omz-ansi-github.png"/></a>&nbsp;&nbsp;
 </p>
 
 ### MUSICA QUE ME INSPIRA <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Mirror%20Ball.webp" alt="Mirror Ball" width="35" height="35" />
@@ -213,11 +211,11 @@ El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
 <br>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=eUAd5f936Yg" target="blank"><img align="center" width="80px" src="https://i.ytimg.com/vi/eUAd5f936Yg/maxresdefault.jpg"/></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=YmFasIFdQ2c" target="blank"><img align="center" width="80px" src="https://i3.ytimg.com/vi/r8y0RnNymOo/maxresdefault.jpg"/></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=bZRemXbO7kU" target="blank"><img align="center" width="80px" src="https://i.ytimg.com/vi/bZRemXbO7kU/maxresdefault.jpg"/></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=rSc_K7KjEGo" target="blank"><img align="center" width="80px" src="https://i.ytimg.com/vi/rSc_K7KjEGo/maxresdefault.jpg"/></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=YHDansdSzrE" target="blank"><img align="center" width="80px" src="https://i.ytimg.com/vi/YHDansdSzrE/maxresdefault.jpg"/></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=MNLfCH6WsAU" target="blank"><img align="center" width="80px" src="https://i.ytimg.com/vi/ClB8vbPivDU/hqdefault.jpg"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=eUAd5f936Yg" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/eUAd5f936Yg/maxresdefault.jpg"/></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=YmFasIFdQ2c" target="blank"><img align="center" width="100px" src="https://i3.ytimg.com/vi/r8y0RnNymOo/maxresdefault.jpg"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=bZRemXbO7kU" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/bZRemXbO7kU/maxresdefault.jpg"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=rSc_K7KjEGo" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/rSc_K7KjEGo/maxresdefault.jpg"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=YHDansdSzrE" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/YHDansdSzrE/maxresdefault.jpg"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=MNLfCH6WsAU" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/ClB8vbPivDU/hqdefault.jpg"/></a>&nbsp;&nbsp;
 </p>
 
 </details>
@@ -231,15 +229,27 @@ El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
       <h2><img src="https://i.postimg.cc/PfCPXw2g/analitica.png" width="300px">⠀</h2>
   </summary>
 
-## ¡OBTEN TUS ESTADISTICAS DE GITHUB GENERADAS DIARIAMENTE EN TU README!.<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px">
+### ¡OBTEN TUS ESTADISTICAS DE GITHUB GENERADAS DIARIAMENTE EN TU README!.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="35" height="35" />
 
-<img src="https://custom-icon-badges.demolab.com/badge/-Run%20GitHub%20Action-blue?style=for-the-badge&amp;logo=workflow&amp;logoColor=white" alt="github action">
+<img src="https://custom-icon-badges.demolab.com/badge/-Install%20Package%20Analytics%20-gold?style=for-the-badge&amp;logo=package&amp;logoColor=black" alt="install package">
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2><img src="./src/svg-png/gitkraken.svg" width="35" alt="Logo">⠀GitKraken</h2>
 
-<h3>⚡ Metricas GitLab - GitKraken</h3>
+<p align="center">
+  <img src="./src/svg-png/zerhocool.svg" alt="Contribucion">
+</p>
+
+<h2><img src="./src/svg-png/github.svg" width="35" alt="Logo">⠀Github</h2>
+
+<p align="center">
+  <img src="./src/svg-png/datagroupssl.svg" alt="Contribucion">
+</p>
+
+---
+
+<h3>⚡ Metricas GitKraken</h3>
 
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -260,6 +270,8 @@ El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
   <a href="#"><img width="600px" alt="Charts" title="Charts" src="./src/metrics/metrics.plugin.habits.charts.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
+🕐 Actualización cada 24 hs a las 00:00:01 Estonia hora local.
 
 </details>
 
@@ -288,14 +300,10 @@ El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
 
 - ✔ Darme créditos cuando estés utilizando este README, añadiendo un link a este repositorio ⭐
 
-- ✔ Dándole una estrella (starring) y compartiendo el proyecto 🚀
-
 <p align="left">
   <a target="_blank" href="https://github.com/datagroupssl">
    <img src="https://custom-icon-badges.demolab.com/badge/-Share mi link-blue?style=for-the-badge&logo=share&logoColor=white" alt=""></a>
 </p>
-
-<img align="right" alt="Secretaria" width="150" src="https://i.postimg.cc/0QTx2bNv/secretaria2.jpg">
 
 ### Ubicacion:
 
@@ -309,13 +317,15 @@ El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="60" height="60" />
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="datagroupssl@gmail.com"><img width="230px" alt="Email" title="datagroupssl@gmail.com" src="https://custom-icon-badges.demolab.com/badge/-datagroupssl@gmail.com-purple?style=for-the-badge&logo=l&logoColor=white"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img  alt="Secretaria" width="200" src="https://i.postimg.cc/0QTx2bNv/secretaria2.jpg">
 </p>
 
 ---
 
 ## FORMAS DE PAGO⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Classical%20Building.webp" alt="Classical Building" width="35" height="35" />
 
-Medios de pagos que aceptamos Euros y Tarjetas de credito en el mundo:
+Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mundo:
 
 <p align="center">
   <a href="#"><img width="60px" alt="Visa" title="Visa" src="./src/svg-png/visa.svg"/></a>
@@ -328,23 +338,11 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito en el mundo:
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="50px" alt="Bitcoin" title="Bitcoin" src="./src/svg-png/bitcoin-icon.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="#"><img width="50px" alt="TON" title="Toncoin" src="./src/svg-png/toncoin-ton-logo.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="#"><img width="50px" alt="USDT" title="Tether" src="./src/svg-png/tether-usdt-logo.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
----
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀TRANSFERENCIAS Y BITCOIN
-
-- ✔ CVU: `0000177500000006134907`
-
-<img src="https://custom-icon-badges.demolab.com/badge/-Usuarios en Telegram-blue?style=for-the-badge&logo=&logoColor=white" alt="">
-
-- ✔ BTC: `1LiJgSrQc4tTyBcsVK6DMxMC3J8DJ5FzMD`
-
-- ✔ USDT Red TRC20: `TRbepPuT16zyViiyr4vBrG614XhFcjL9WV`
-
-- ✔ Toncoin TON: `UQAukJzjgRpPJ6aMSWqsttfiBycB7ekDcNvDE9TSQcJyRyzD`
-
-- ✔ Usuario Telegram: @zerhocool
 
 <p align="center">
   <a href="https://paypal.me/datagroupssl?country.x=AR&locale.x=es_XC" target="_blank">
@@ -354,10 +352,25 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito en el mundo:
 
 ---
 
-> [!TIP]
-> Leer👷 En Argentina Solo Dolares a la cotizacion `BLUE` del dia, en efectivo. `SIN EXEPCIONES` debido a la situacion que atravieza el pais, SOLO CLIENTES.
+<details open> 
+  <summary><h3>🛎️ TRANSFERENCIAS</h3></summary>
 
-## Puedes ayudarme invitandome un cafe.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20With%20Wings.webp" alt="Money With Wings" width="35" height="35" />
+<img src="https://flagcdn.com/24x18/ee.png" srcset="https://flagcdn.com/48x36/ee.png 2x,
+    https://flagcdn.com/72x54/ee.png 3x" width="24" height="18" alt="Estonia">⠀CVU: `0070067230004033073612`
+
+<img width="30px" alt="Bitcoin" title="Bitcoin" src="./src/svg-png/bitcoin-icon.svg"/>⠀`1LiJgSrQc4tTyBcsVK6DMxMC3J8DJ5FzMD`
+
+<img width="30px" alt="USDT" title="Tether" src="./src/svg-png/tether-usdt-logo.svg"/>⠀Red TRC20: `TRbepPuT16zyViiyr4vBrG614XhFcjL9WV`
+
+<img width="30px" alt="Bitcoin" title="Bitcoin" src="./src/svg-png/toncoin-ton-logo.svg"/>⠀`UQAukJzjgRpPJ6aMSWqsttfiBycB7ekDcNvDE9TSQcJyRyzD`
+
+</details>
+
+---
+
+🚦 - En Argentina Solo Dolares a la cotizacion `BLUE` del dia, en efectivo. `SIN EXEPCIONES`, SOLO CLIENTES.
+
+### Puedes ayudarme invitandome un cafe.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20With%20Wings.webp" alt="Money With Wings" width="35" height="35" />
 
 <a href="https://payment-link.astropay.com/pnt5"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
@@ -369,47 +382,50 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito en el mundo:
 
 <!-- INICIO SPONSOR -->
 
-- Ser Sponsor, mas informacion en [`CONTRIBUTORS.md`](https://#)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Megaphone.webp" alt="Megaphone" width="50" height="50" />
+- Ser Sponsor, mas informacion en [`CONTRIBUTORS.md`](https://github.com/datagroupssl/datagroupssl/blob/master/CONTRIBUTORS.md)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Megaphone.webp" alt="Megaphone" width="50" height="50" />
 
 <p align="center">
-  <a href="https://www.spaincares.com"><img width="160px" alt="Spain Cares" title="Spain Cares" src="https://i.postimg.cc/8CnN9yQj/saoj.png"/></a>
+  <a href="https://www.nexperia.com"><img width="200px" alt="Nexperia" title="Nexperia" src="https://i.postimg.cc/nrQznYd2/nexperia-logo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://aspidcars.com"><img width="160px" alt="Aspid Cars" title="Aspid Cars" src="https://i.postimg.cc/F1ttmqDH/Aspid.png"/></a>
+  <a href="https://aspidcars.com"><img width="200px" alt="Aspid Cars" title="Aspid Cars" src="https://i.postimg.cc/F1ttmqDH/Aspid.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 - Gracias a estas empresas por su apoyo y confianza en este equipo.
 
-## Apoyamos esta causa⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="35" height="35" />
-
-<p><a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg" alt="Stand With Ukraine"></a></p>
-
 ---
 
-<!-- INICIO ANALITYCS  -->
-
-<img src="https://custom-icon-badges.demolab.com/badge/-Install%20Package%20Analytics%20-gold?style=for-the-badge&amp;logo=package&amp;logoColor=black" alt="install package">
-
-<p align="center">
-  <i>GA4 G-7X*08T**** - Visitas de perfil:</i>⠀<img src="https://i.postimg.cc/x1xw1csZ/analytics.png" width="50px">
-</p>
-
-<p align="center">
-  <img width="300px" alt="Worlmap" title="Worlmap" src="./src/metrics/metrics.plugin.stargazers.worldmap.svg"/>⠀⠀⠀⠀⠀⠀⠀
-  <img width="200px" title="Flag Counter" src="https://s11.flagcounter.com/count2/FkyQ/bg_141306/txt_58D631/border_141306/columns_2/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
-</p>
-
-<p><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt=""></p>
-
-🕐 Actualización cada 24 hs a las 00:00:08 Estonia hora local.
-
-<br>
+### AGRADECIMIENTOS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/1st%20Place%20Medal.webp" alt="1st Place Medal" width="35" height="35" />
 
 <p align="center">
   <img alt="Republic of Estonia" style="border-width:0" src="https://i.postimg.cc/SKQxw2nt/estonia.png" width="90" />
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <img alt="Gobierno de España" style="border-width:0" src="https://i.postimg.cc/XYbJkD4W/espa-a.png" width="400" />
 </p>
+
+---
+
+<!-- INICIO VISITAS  -->
+
+<p align="center">
+  <i>GA4 G-7X*08T**** - Visitas de perfil:</i>⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="35" />
+</p>
+
+<p align="center">
+  <img width="" title="Flag Counter" src="https://s11.flagcounter.com/count2/FkyQ/bg_141306/txt_58D631/border_141306/columns_2/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+</p>
+
+---
+
+<!-- INICIO QR  -->
+
+<p align="center">
+  <a rel="licencia" href="https://github.com/datagroupssl"><img alt="Open Source " style="border-width:0" src="https://i.postimg.cc/7hKLprFF/barcode.gif" width="90" /></a>
+</p>
+
+🔹 Si tu gustó este README scanea el codigo QR, deja tu Like 👍, dándole una estrella (starring) y compartiendo el proyecto 🚀.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Gracias+Por+Visitar+Mi+Perfil+!!!...)](https://github.com/datagroupssl)
 
 ---
 
@@ -420,22 +436,10 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito en el mundo:
 <img alt="Licencia GNU General Publica " style="border-width:0" src="https://i.postimg.cc/PxWYdHPN/gplv3-with-text-136x68.png" />⠀⠀⠀⠀<img alt="Software Freedom Conservancy " style="border-width:0" src="https://i.postimg.cc/fb0Ygmsc/conservancy-header.png" />⠀⠀⠀⠀⠀<br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/gpl-3.0.html">Licencia GNU General Publica (GNU GPL v3.0) -</a>
 <a rel="licencia" href="https://sfconservancy.org/">Software Freedom Conservancy.</a>
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Gracias+Por+Visitar+Mi+Perfil+!!!...)](https://github.com/zerhocool)
-
-<p align="center">
-  <a rel="licencia" href="https://github.com/datagroupssl"><img alt="Open Source " style="border-width:0" src="https://i.postimg.cc/7hKLprFF/barcode.gif" width="90" /></a>
-</p>
-
-🔹 Si tu gustó este README scanea el codigo QR, deja tu Like 👍, haz algún comentario y no olvides Suscribirte a este CANAL.
-
 
 <p align="right">
   <a rel="licencia" href="https://www.geocerts.com/geotrust/geotrust-ov-wildcard-ssl"><img alt="Open Source " style="border-width:0" src="https://i.postimg.cc/xCcT1wyv/geotrust-trust-seal1.png" width="90" /></a>
 </p>
-
----
 
 </footer>
 

@@ -1,40 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta charset="UTF-8"/>
-  <meta content="width=device-width, initial-scale=1" name="viewport" />
-  <meta name="DC.Language" scheme="RFC1766" content="Spanish">
-  <meta name="autor" content="Andres Antonio Cardoso">
-  <meta name="reply-to" content="datagroupssl@gmail.com">
-  <link rev="made" href="mailto:datagroupssl@gmail.com">
-  <meta name="description" content="Andres Antonio Cardoso, Developer Full Stack y Diseñador Grafico.">
-  <meta name="copyright" content="Propietario del copyright" />
-  <meta name="keywords" contennt="desarrollo web, website, front end developer">
-  <meta name="Resource-type" content="Index">
-  <meta name="Revisit-after" content="1 days">
-  <meta name="robots" content="all">
- <title>⠀</title>
-</head>
-<body>
+# PATROCINADOR
 
-<!-- INICIO BANNER -->
+<p align="center">
+  <img src="https://i.postimg.cc/L5p7bfXJ/questions.png" width="100px">
+</p>
 
-# HOLA BIENVENIDO A MI PERFIL⠀!!!.<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px">
-
-<!-- FINAL DE BANNER  -->
-
----
-
-## CONTRIBUCIONES <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="35" />
+## Gracias a los increíbles patrocinadores y colaboradores que me impulsan para seguir creciendo. Si desea unirse a ellos, considere patrocinar el desarrollo de DATA GROUP.
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20Bag.webp" alt="Money Bag" width="130" height="130" />
 </p>
-
-## Gracias a los increíbles patrocinadores y colaboradores que me impulsan para seguir creciendo. Si desea unirse a ellos, considere patrocinar el desarrollo de DATA GROUP.
 
 ---
 
@@ -48,7 +22,7 @@
 
 ### 📌- Patrocinador Empresa
 
-Patrocinar Zerho Cool te da una gran exposición a más de 1,7 millones de desarrolladores de todo el mundo a través de nuestro sitio web, proyectos y READMES en GitHub.
+Patrocinar DATA GROUP te da una gran exposición a más de 1,7 millones de desarrolladores de todo el mundo a través de nuestro sitio web, proyectos y READMES en GitHub.
 
 - Además, apoyar a OSS mejora la reputación de su marca, que es un activo importante para cualquier empresa que interactúe con los desarrolladores.
 
@@ -61,7 +35,7 @@ Patrocinar Zerho Cool te da una gran exposición a más de 1,7 millones de desar
 Especial global:
 
 - Limitado a un patrocinador a nivel mundial (Actualmente Disponible).
-- Exclusivo por encima de la colocación del logotipo en la portada de Zerho Cool.
+- Exclusivo por encima de la colocación del logotipo en la portada de DATA GROUP.
 - Colocacion de logotipo más prominente en todos los lugares de los niveles de abajo.
 
 <p align="center">
@@ -74,7 +48,7 @@ Especial global:
 
 Platino (USD$2.000/mes):
 
-- Destacada ubicación del logotipo en la portada de Zerho Cool.
+- Destacada ubicación del logotipo en la portada de DATA GROUP.
 - Destacada ubicación del logotipo en sidebar de todas las páginas de contenido.
 - Destacada ubicación del logotipo en el README de DATA GROUP.
 
@@ -147,7 +121,7 @@ Colaborador individual (USD$20/mes):
 
 ## FORMAS DE PAGO⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Classical%20Building.webp" alt="Classical Building" width="35" height="35" />
 
-Medios de pagos que aceptamos Euros y Tarjetas de credito en el mundo:
+Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mundo:
 
 <p align="center">
   <a href="#"><img width="60px" alt="Visa" title="Visa" src="./src/svg-png/visa.svg"/></a>
@@ -160,24 +134,11 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito en el mundo:
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="50px" alt="Bitcoin" title="Bitcoin" src="./src/svg-png/bitcoin-icon.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="#"><img width="50px" alt="TON" title="Toncoin" src="./src/svg-png/toncoin-ton-logo.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="#"><img width="50px" alt="USDT" title="Tether" src="./src/svg-png/tether-usdt-logo.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
----
-
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀TRANSFERENCIAS Y BITCOIN
-
-- ✔ CVU: `0000177500000006134907`
-
-<img src="https://custom-icon-badges.demolab.com/badge/-Usuarios en Telegram-blue?style=for-the-badge&logo=&logoColor=white" alt="">
-
-- ✔ BTC: `1LiJgSrQc4tTyBcsVK6DMxMC3J8DJ5FzMD`
-
-- ✔ USDT Red TRC20: `TRbepPuT16zyViiyr4vBrG614XhFcjL9WV`
-
-- ✔ Toncoin TON: `UQAukJzjgRpPJ6aMSWqsttfiBycB7ekDcNvDE9TSQcJyRyzD`
-
-- ✔ Usuario Telegram: @zerhocool
 
 <p align="center">
   <a href="https://paypal.me/datagroupssl?country.x=AR&locale.x=es_XC" target="_blank">
@@ -187,10 +148,24 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito en el mundo:
 
 ---
 
-> [!TIP]
-> Leer👷 En Argentina Solo Dolares a la cotizacion `BLUE` del dia, en efectivo. `SIN EXEPCIONES` debido a la situacion que atravieza el pais, SOLO CLIENTES.
+<details open> 
+  <summary><h3>🛎️ TRANSFERENCIAS</h3></summary>
 
-## Puedes ayudarme invitandome un cafe.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20With%20Wings.webp" alt="Money With Wings" width="35" height="35" />
+<img src="https://flagcdn.com/24x18/ee.png" srcset="https://flagcdn.com/48x36/ee.png 2x,
+    https://flagcdn.com/72x54/ee.png 3x" width="24" height="18" alt="Estonia">⠀CVU: `0070067230004033073612`
+
+
+<a href="#"><img width="30px" alt="Bitcoin" title="Bitcoin" src="./src/svg-png/bitcoin-icon.svg"/></a>`1LiJgSrQc4tTyBcsVK6DMxMC3J8DJ5FzMD`
+
+<a href="#"><img width="30px" alt="USDT" title="Tether" src="./src/svg-png/tether-usdt-logo.svg"/></a> Red TRC20: `TRbepPuT16zyViiyr4vBrG614XhFcjL9WV`
+
+<a href="#"><img width="30px" alt="Bitcoin" title="Bitcoin" src="./src/svg-png/toncoin-ton-logo.svg"/></a>`UQAukJzjgRpPJ6aMSWqsttfiBycB7ekDcNvDE9TSQcJyRyzD`
+
+</details>
+
+---
+
+### Puedes ayudarme invitandome un cafe.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20With%20Wings.webp" alt="Money With Wings" width="35" height="35" />
 
 <a href="https://payment-link.astropay.com/pnt5"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
@@ -198,14 +173,4 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito en el mundo:
 
 ## Licencia 📄
 
-- Copyright © 2014-present DATA GROUP - ANDRES ANTONIO CARDOSO.
-
-<a rel="licencia" href="https://www.gnu.org/"><img alt="Licencia GNU General Publica " style="border-width:0" src="https://i.postimg.cc/YC06YTyy/GFDL-Logo-svg.png" height="50"  /></a><br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/fdl-1.3.html">Licencia de Documentación Gratuita de GNU ( GFDL v1.3 )</a>
-
----
-
 <p>Diseño y Desarrollo por DATA GROUP - Copyrigh © 2014-present DATA GROUP - Todos los derechos reservados.</p>
-
-</body>
-
-</html>
