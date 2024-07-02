@@ -23,10 +23,6 @@
 <!-- CODIFICADO EN HTML5 -->
 <!-- INICIO BANNER -->
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Identification%20Card.webp" alt="Identification Card" width="200" height="200" />
-</p>
-
 <p><a href="https://postimg.cc/jC9c9gYQ"><img src="https://i.postimg.cc/3JrqkVL6/cover-repo.jpg" alt="cover-repo.jpg"></a></p>
 
 <!-- INICIO TYPING  -->
@@ -93,7 +89,7 @@
       <h2><img src="https://i.postimg.cc/KvyF6kVr/sobremi2.png" width="300px">⠀</h2>
     </summary>
 
-## QUIEN SOY !!!⠀<img src="./src/svg-png/Animation.gif" width="100px">
+## QUIEN SOY !!!⠀ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Identification%20Card.webp" alt="Identification Card" width="35" height="35" />
 
 <img src="https://custom-icon-badges.demolab.com/badge/-Install%20Package%20Coder-gold?style=for-the-badge&amp;logo=package&amp;logoColor=black" alt="install package">
 
@@ -250,7 +246,7 @@ El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
 
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img width="400px" src="https://github-trophies.vercel.app/?username=datagroupssl" alt="datagroupssl">
+  <img width="500px" src="https://github-trophies.vercel.app/?username=datagroupssl" alt="datagroupssl">
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
