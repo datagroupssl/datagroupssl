@@ -110,7 +110,7 @@
 - Especialista: Python, Arch Linux, Javascript, Vue, Kali
 - Experiencia: + 10 años
 
-<img align="left" alt="Data Group" width="300" src="https://i.postimg.cc/90D1BNR6/master.gif">
+<img align="right" alt="Diseño Grafico" width="400" src="https://i.postimg.cc/d3NjkH3P/grafico.jpg">
 
 <br>
 
@@ -221,21 +221,22 @@ El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
 
 <br>
 
-<img align="right" alt="Coding" width="300" src="https://i.postimg.cc/tgY3sVH4/gitkraken-2.png">
+<img align="right" alt="Estadisticas" width="300" src="./src/svg-png/homepage.gif">
 
 <p align="center">
   <i>GA4 G-7X*08T**** - Visitas de perfil:</i>⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="35" />
 </p>
 
-### “Google Analytics 4 es un servicio de analíticas que te permite medir el tráfico y la interacción en tus sitios web y aplicaciones dirigidos a desarrolladores.
+### “OSS Insight es un servicio de analíticas que te permite medir el tráfico y la interacción en tus sitios web y aplicaciones dirigidos a desarrolladores.
 
 ### 🖥️ CONTRIBUCIONES
 
 <p align="center">
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="//c.andyhoppe.com/1719846922" style="border:none" alt="Contador" />⠀<img src="./src/svg-png/gitkraken.svg" width="50" alt="Logo">
+    <img style="border: 0px solid; display: inline;" alt="contador" src="https://websmultimedia.com/contador-de-visitas.php?id=17680">
+  ⠀<img src="./src/svg-png/gitkraken.svg" width="50" alt="Logo">
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="./src/svg-png/github.svg" width="50" alt="Logo"> <img src="//c.andyhoppe.com/1719788329" style="border:none" alt="Contador" />
+    <img src="./src/svg-png/github.svg" width="50" alt="Logo"> <img style="border: 0px solid; display: inline;" alt="contador" src="https://websmultimedia.com/contador-de-visitas.php?id=17681">
 </p>
 
 <p align="center">
@@ -398,7 +399,6 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 <p align="center">
   <a rel="licencia" href="https://github.com/datagroupssl"><img alt="Open Source " style="border-width:0" src="https://i.postimg.cc/7hKLprFF/barcode.gif" width="100" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img alt="Data Group" width="300" src="https://i.postimg.cc/90D1BNR6/master.gif">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Gracias+Por+Visitar+Mi+Perfil+!!!...)](https://github.com/datagroupssl)
