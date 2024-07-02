@@ -24,7 +24,7 @@
 <!-- INICIO BANNER -->
 
 <p align="center">
-  <img src="https://i.postimg.cc/Kz3CrM8j/hola.gif" width="300px">
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Identification%20Card.webp" alt="Identification Card" width="200" height="200" />
 </p>
 
 <p><a href="https://postimg.cc/jC9c9gYQ"><img src="https://i.postimg.cc/3JrqkVL6/cover-repo.jpg" alt="cover-repo.jpg"></a></p>
@@ -47,7 +47,7 @@
 <!-- INICIO BADGES -->
 
 <p align="left">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">⠀<img src="https://img.shields.io/badge/HTML%20version%20-5.0.0-%23FE5196?logo=html5&amp;logoColor=white" alt="HTML">⠀<img src="https://img.shields.io/badge/Markdown-%23FE5196?logo=markdown&amp;logoColor=white" alt="Markdown">⠀<img src="https://img.shields.io/badge/Gitkraken%20PRO-%23FE519?logo=Gitkraken&amp;logoColor=white" alt="Gitkraken">⠀<img src="https://img.shields.io/badge/Archlinux%20PRO-%23FE9211?logo=Archlinux&amp;logoColor=white" alt="Archlinux">⠀<img src="https://img.shields.io/badge/GIT%20version-2.45.2-%23FE5196?logo=git&amp;logoColor=white" alt="Git">⠀<img src="https://img.shields.io/badge/NPM%20version-9.0.0-%23FE5196?logo=npm&amp;logoColor=white" alt="NPM">⠀<img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License">⠀<img src="https://img.shields.io/badge/Version-2.0.0-green.svg" alt="Version">⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits">⠀<img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji"/>⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">⠀<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website ">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">⠀<img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt">⠀<img src="https://madewithlove.now.sh/es?heart=true&amp;text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&amp;colorA=%23400000" alt="Made with love in Estonia">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">⠀<img src="https://img.shields.io/badge/HTML%20version%20-5.0.0-%23FE5196?logo=html5&amp;logoColor=white" alt="HTML">⠀<img src="https://img.shields.io/badge/Markdown-%23FE5196?logo=markdown&amp;logoColor=white" alt="Markdown">⠀<img src="https://img.shields.io/badge/Gitkraken%20PRO-%23FE519?logo=Gitkraken&amp;logoColor=white" alt="Gitkraken">⠀<img src="https://img.shields.io/badge/Archlinux%20PRO-%23FE9211?logo=Archlinux&amp;logoColor=white" alt="Archlinux">⠀<img src="https://img.shields.io/badge/GIT%20version-2.45.2-%23FE5196?logo=git&amp;logoColor=white" alt="Git">⠀<img src="https://img.shields.io/badge/NPM%20version-9.0.0-%23FE5196?logo=npm&amp;logoColor=white" alt="NPM">⠀<img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License">⠀<img src="https://img.shields.io/badge/Version-2.0.0-green.svg" alt="Version">⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits">⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">⠀<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website ">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">⠀<img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt">⠀<img src="https://madewithlove.now.sh/es?heart=true&amp;text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&amp;colorA=%23400000" alt="Made with love in Estonia">
 </p>
 
 <p align="left">
@@ -93,7 +93,7 @@
       <h2><img src="https://i.postimg.cc/KvyF6kVr/sobremi2.png" width="300px">⠀</h2>
     </summary>
 
-## QUIEN SOY !!!.<img src="./src/svg-png/good-times.svg" width="90px">
+## QUIEN SOY !!!⠀<img src="./src/svg-png/Animation.gif" width="100px">
 
 <img src="https://custom-icon-badges.demolab.com/badge/-Install%20Package%20Coder-gold?style=for-the-badge&amp;logo=package&amp;logoColor=black" alt="install package">
 
@@ -107,12 +107,10 @@
 
 #### 🏰 Empresa:
 - DATA GROUP OÜ
-- Especialista: Python, Arch Linux, Javascript, Vue, Kali
+- Especialista: Python, Arch Linux, Javascript, Vue, Kali, VFX
 - Experiencia: + 10 años
 
-<img align="right" alt="Diseño Grafico" width="400" src="https://i.postimg.cc/d3NjkH3P/grafico.jpg">
-
-<br>
+<img align="right" alt="Good Times" width="300" src="./src/svg-png/good-times.svg">
 
 <img align="right" alt="Musica" width="300" src="./src/svg-png/nova.svg">
 
@@ -252,9 +250,8 @@ El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
 
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img width="300px" src="https://github-trophies.vercel.app/?username=datagroupssl" alt="datagroupssl">
+  <img width="400px" src="https://github-trophies.vercel.app/?username=datagroupssl" alt="datagroupssl">
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=datagroupssl&show_icons=true&locale=en" alt="datagroupssl" />
 </p>
 
 
@@ -385,7 +382,7 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 ### AGRADECIMIENTOS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/1st%20Place%20Medal.webp" alt="1st Place Medal" width="35" height="35" />
 
 <p align="center">
-  <img alt="Republic of Estonia" style="border-width:0" src="https://i.postimg.cc/SKQxw2nt/estonia.png" width="90" />
+  <img alt="Republic of Estonia" style="border-width:0" src="./src/svg-png/estonia.png" width="90" />
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <img alt="Gobierno de España" style="border-width:0" src="https://i.postimg.cc/XYbJkD4W/espa-a.png" width="400" />
 </p>
