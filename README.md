@@ -16,10 +16,11 @@
   <meta name="Resource-type" content="Index">
   <meta name="Revisit-after" content="1 days">
   <meta name="robots" content="all">
- <title>PROFILE GITHUB</title>
+ 
 </head>
 <body>
 
+<!-- CODIFICADO EN HTML5 -->
 <!-- INICIO BANNER -->
 
 <p align="center">
@@ -37,17 +38,6 @@
 
 ---
 
-<!-- INICIO BANDERAS  -->
-
-<p align="center">
-  <img width="80px" alt="Flag Spain" title="Flag Spain" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Spain.webp"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img width="80px" alt="Flag Estonia" title="Flag Estonia" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Estonia.webp"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" height="80"  />
-
-</p>
-
 <!-- INICIO MENSAJE -->
 
 ## 📌- Formamos mundos e identidades visuales, construidos sobre la base del pensamiento y el diseño interdisciplinarios, siempre desafiando el status quo. Fusionamos el arte del Codigo con el Diseño Grafico.
@@ -57,7 +47,7 @@
 <!-- INICIO BADGES -->
 
 <p align="left">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits">⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">⠀<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website ">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">⠀<img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License">⠀<img src="https://img.shields.io/badge/Version-2.0.0-green.svg" alt="">⠀<a href="https://github.com/datagroupssl/standard-readme">⠀<img src="https://img.shields.io/npm/v/@semantic-release/npm/latest.svg">⠀<img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status">⠀<img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt">⠀<img src="https://madewithlove.now.sh/es?heart=true&amp;text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&amp;colorA=%23400000" alt="Made with love in Estonia"></a>
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">⠀<img src="https://img.shields.io/badge/HTML%20version%20-5.0.0-%23FE5196?logo=html5&amp;logoColor=white" alt="HTML">⠀<img src="https://img.shields.io/badge/Markdown-%23FE5196?logo=markdown&amp;logoColor=white" alt="Markdown">⠀<img src="https://img.shields.io/badge/Gitkraken%20PRO-%23FE519?logo=Gitkraken&amp;logoColor=white" alt="Gitkraken">⠀<img src="https://img.shields.io/badge/Archlinux%20PRO-%23FE9211?logo=Archlinux&amp;logoColor=white" alt="Archlinux">⠀<img src="https://img.shields.io/badge/GIT%20version-2.45.2-%23FE5196?logo=git&amp;logoColor=white" alt="Git">⠀<img src="https://img.shields.io/badge/NPM%20version-9.0.0-%23FE5196?logo=npm&amp;logoColor=white" alt="NPM">⠀<img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License">⠀<img src="https://img.shields.io/badge/Version-2.0.0-green.svg" alt="Version">⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits">⠀<img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji"/>⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">⠀<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website ">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">⠀<img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt">⠀<img src="https://madewithlove.now.sh/es?heart=true&amp;text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&amp;colorA=%23400000" alt="Made with love in Estonia">
 </p>
 
 <p align="left">
@@ -79,27 +69,19 @@
 <p align="center">
     <i>PROXIMAMENTE, la traduccion en:</i>⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Locked%20With%20Key.webp" alt="Locked With Key" width="35" height="35" />
     <br/><br/>
-    <a href="https://github.com/datagroupssl"><img src="https://flagcdn.com/24x18/us.png" srcset="https://flagcdn.com/48x36/us.png 2x,
-    https://flagcdn.com/72x54/us.png 3x" width="24" height="18" alt="Estados Unidos">⠀</a>
-    <a href="https://github.com/datagroupssl"><img src="https://flagcdn.com/24x18/fr.png" srcset="https://flagcdn.com/48x36/fr.png 2x,
-    https://flagcdn.com/72x54/fr.png 3x" width="24" height="18" alt="Francia">⠀</a>
-    <a href="https://github.com/datagroupssl"><img src="https://flagcdn.com/24x18/it.png" srcset="https://flagcdn.com/48x36/it.png 2x,
-    https://flagcdn.com/72x54/it.png 3x" width="24" height="18" alt="Italia">⠀</a>
-    <a href="https://github.com/datagroupssl"><img src="https://flagcdn.com/24x18/ee.png" srcset="https://flagcdn.com/48x36/ee.png 2x,
-    https://flagcdn.com/72x54/ee.png 3x" width="24" height="18" alt="Estonia">⠀</a> 
-    <a href="https://github.com/datagroupssl"><img src="https://flagcdn.com/24x18/au.png" srcset="https://flagcdn.com/48x36/au.png 2x,
-    https://flagcdn.com/72x54/au.png 3x" width="24" height="18" alt="Australia">⠀</a>
+  <img width="80px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20United%20States.webp" alt="Flag United States"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img width="80px" alt="Flag Estonia" title="Flag Estonia" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Estonia.webp"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" height="80"  />
 </p>
-
-- [Best Template PRO](https://github.com/datagroupssl) Lanzamiento<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Megaphone.webp" alt="Megaphone" width="60" height="60" />
-
 
 <p align="center">
   <a href="https://github.com/datagroupssl/datagroupssl/issues"><img src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=issue-opened" alt="open issue"></a>
   <a href="https://github.com/datagroupssl/datagroupssl/pulls"><img src="https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&amp;logo=comment-discussion&amp;logoColor=black" alt="discuss"></a>
   <a href="https://github.com/datagroupssl?tab=stars"><img src="https://custom-icon-badges.demolab.com/badge/-Give%20me%20a%20Start-gold?style=for-the-badge&amp;logo=star&amp;logoColor=black" alt="stargazers"></a>
   <a href="#" title="Ser  Patrocinador"><img src="https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&amp;logo=heart&amp;logoColor=white" alt="Sponsor with Github"></a>
-  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/-GE FORCE RTX 4080-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=nVIDIA" alt="open issue"></a>
+  <img src="https://custom-icon-badges.demolab.com/badge/-GE FORCE RTX 4080-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=nVIDIA" alt="open issue">
 </p>
 
 <img src="https://i.imgur.com/BsT3Qux.gif" >
@@ -121,13 +103,18 @@
 
 <br>
 
-### 👱 Hola, soy ZERHO COOL un Developer Full Stack y Diseñador Grafico, desde España al mundo.
+### 👱 Hola, soy Andres un Developer Full Stack y Diseñador Grafico, desde España al mundo volviendo a Github a pedido de un cliente especial como un desafio, con repositorios privados en otros servidores.
 
-<h3 align="left">📌- Mis inicios fueron en 1996 trabaje como Programador Freelancer, emigre a España y funde mi propia empresa DATA GROUP en el año 2014, me especializo en Python, Javascript, Vue, Kali, Arch Linux, etc. con + 10 años de experiencia. Actualmente con repositorios privados en otras plataformas, los cuales estoy migrando a GitLab.</h3>
+#### 🏰 Empresa:
+- DATA GROUP OÜ
+- Especialista: Python, Arch Linux, Javascript, Vue, Kali
+- Experiencia: + 10 años
+
+<img align="left" alt="Data Group" width="300" src="https://i.postimg.cc/90D1BNR6/master.gif">
 
 <br>
 
-<img align="right" alt="Diseño Grafico" width="400" src="https://i.postimg.cc/d3NjkH3P/grafico.jpg">
+<img align="right" alt="Musica" width="300" src="./src/svg-png/nova.svg">
 
 <br>
 
@@ -136,7 +123,7 @@
 #### 🖥️ Sistema Operativo:
 
 - Arch Linux, teminal Xterm o eDEX-UI
-- Windows 10 Pro, terminal Bash perzonalizada
+- Windows 11 Pro, terminal Bash perzonalizada
 
 #### 🍸 Intereses:
 
@@ -152,8 +139,7 @@
 #### 📗 Ultimo libro:
 
 - El libro negro del programador - El arte de la invisibilidad - Blue Team Handbook - Hacking Etico 101 - Biohacker - 
-El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python 
-
+El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
 
 ### INSIGNIAS: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Crown.webp" alt="Crown" width="35" height="35" />
 
@@ -229,49 +215,49 @@ El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
       <h2><img src="https://i.postimg.cc/PfCPXw2g/analitica.png" width="300px">⠀</h2>
   </summary>
 
-### ¡OBTEN TUS ESTADISTICAS DE GITHUB GENERADAS DIARIAMENTE EN TU README!.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="35" height="35" />
+### ¡OBTEN TUS ESTADISTICAS GENERADAS DIARIAMENTE EN TU README!.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="35" height="35" />
 
 <img src="https://custom-icon-badges.demolab.com/badge/-Install%20Package%20Analytics%20-gold?style=for-the-badge&amp;logo=package&amp;logoColor=black" alt="install package">
 
 <br>
 
-<h2><img src="./src/svg-png/gitkraken.svg" width="35" alt="Logo">⠀GitKraken</h2>
+<img align="right" alt="Coding" width="300" src="https://i.postimg.cc/tgY3sVH4/gitkraken-2.png">
 
 <p align="center">
-  <img src="./src/svg-png/zerhocool.svg" alt="Contribucion">
+  <i>GA4 G-7X*08T**** - Visitas de perfil:</i>⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="35" />
 </p>
 
-<h2><img src="./src/svg-png/github.svg" width="35" alt="Logo">⠀Github</h2>
+### “Google Analytics 4 es un servicio de analíticas que te permite medir el tráfico y la interacción en tus sitios web y aplicaciones dirigidos a desarrolladores.
+
+### 🖥️ CONTRIBUCIONES
 
 <p align="center">
-  <img src="./src/svg-png/datagroupssl.svg" alt="Contribucion">
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <img src="//c.andyhoppe.com/1719846922" style="border:none" alt="Contador" />⠀<img src="./src/svg-png/gitkraken.svg" width="50" alt="Logo">
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <img src="./src/svg-png/github.svg" width="50" alt="Logo"> <img src="//c.andyhoppe.com/1719788329" style="border:none" alt="Contador" />
+</p>
+
+<p align="center">
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="./src/svg-png/zerhocool.svg" width="300" alt="Contribucion">
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="./src/svg-png/datagroupssl.svg" width="300" alt="Contribucion">
 </p>
 
 ---
 
-<h3>⚡ Metricas GitKraken</h3>
+### ⚡ METRICAS
 
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="600px" alt="Worlmap" title="Worlmap" src="./src/metrics/metrics.plugin.stargazers.worldmap.svg"/></a>
+  <img width="300px" src="https://github-trophies.vercel.app/?username=datagroupssl" alt="datagroupssl">
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="600px" alt="Licenses" title="Licenses" src="./src/metrics/metrics.plugin.licenses.ratio.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  </p>
-
----
-
-<h3>⚡ Metricas WakaTime</h3>
-
-<p align="center">
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="600px" alt="WakaTime" title="WakaTime" src="./src/metrics/metrics.plugin.wakatime.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="600px" alt="Charts" title="Charts" src="./src/metrics/metrics.plugin.habits.charts.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=datagroupssl&show_icons=true&locale=en" alt="datagroupssl" />
 </p>
 
-🕐 Actualización cada 24 hs a las 00:00:01 Estonia hora local.
+
+🕐 Actualización cada 24 hs, Estonia hora local.
 
 </details>
 
@@ -288,7 +274,7 @@ El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
 
   <br>
 
-  <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ## Póngase en contacto:
 
@@ -302,7 +288,7 @@ El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
 
 <p align="left">
   <a target="_blank" href="https://github.com/datagroupssl">
-   <img src="https://custom-icon-badges.demolab.com/badge/-Share mi link-blue?style=for-the-badge&logo=share&logoColor=white" alt=""></a>
+  <img src="https://custom-icon-badges.demolab.com/badge/-Share mi link-blue?style=for-the-badge&logo=share&logoColor=white" alt=""></a>
 </p>
 
 ### Ubicacion:
@@ -314,7 +300,7 @@ El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
 ### Contacto:
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="60" height="60" />
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="datagroupssl@gmail.com"><img width="230px" alt="Email" title="datagroupssl@gmail.com" src="https://custom-icon-badges.demolab.com/badge/-datagroupssl@gmail.com-purple?style=for-the-badge&logo=l&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -338,9 +324,9 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="50px" alt="Bitcoin" title="Bitcoin" src="./src/svg-png/bitcoin-icon.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="#"><img width="50px" alt="TON" title="Toncoin" src="./src/svg-png/toncoin-ton-logo.svg"/></a>
+  <a href="#"><img width="50px" alt="TON" title="Toncoin" src="./src/svg-png/toncoin-ton-logo.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="#"><img width="50px" alt="USDT" title="Tether" src="./src/svg-png/tether-usdt-logo.svg"/></a>
+  <a href="#"><img width="50px" alt="USDT" title="Tether" src="./src/svg-png/tether-usdt-logo.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -352,7 +338,7 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 
 ---
 
-<details open> 
+<details>
   <summary><h3>🛎️ TRANSFERENCIAS</h3></summary>
 
 <img src="https://flagcdn.com/24x18/ee.png" srcset="https://flagcdn.com/48x36/ee.png 2x,
@@ -407,23 +393,13 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 
 <!-- INICIO VISITAS  -->
 
-<p align="center">
-  <i>GA4 G-7X*08T**** - Visitas de perfil:</i>⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="35" />
-</p>
-
-<p align="center">
-  <img width="" title="Flag Counter" src="https://s11.flagcounter.com/count2/FkyQ/bg_141306/txt_58D631/border_141306/columns_2/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
-</p>
-
----
-
-<!-- INICIO QR  -->
-
-<p align="center">
-  <a rel="licencia" href="https://github.com/datagroupssl"><img alt="Open Source " style="border-width:0" src="https://i.postimg.cc/7hKLprFF/barcode.gif" width="90" /></a>
-</p>
-
 🔹 Si tu gustó este README scanea el codigo QR, deja tu Like 👍, dándole una estrella (starring) y compartiendo el proyecto 🚀.
+
+<p align="center">
+  <a rel="licencia" href="https://github.com/datagroupssl"><img alt="Open Source " style="border-width:0" src="https://i.postimg.cc/7hKLprFF/barcode.gif" width="100" /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img alt="Data Group" width="300" src="https://i.postimg.cc/90D1BNR6/master.gif">
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Gracias+Por+Visitar+Mi+Perfil+!!!...)](https://github.com/datagroupssl)
 
@@ -431,7 +407,7 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 
 <!-- INICIO COPY  -->
 
-<p>Diseño y Desarrollo por DATA GROUP - Copyrigh © 2014-present DATA GROUP - Todos los derechos reservados.</p>
+<p>Diseño y Desarrollo por DATA GROUP - © 2014-present - DATA GROUP - Todos los derechos reservados.</p>
 
 <img alt="Licencia GNU General Publica " style="border-width:0" src="https://i.postimg.cc/PxWYdHPN/gplv3-with-text-136x68.png" />⠀⠀⠀⠀<img alt="Software Freedom Conservancy " style="border-width:0" src="https://i.postimg.cc/fb0Ygmsc/conservancy-header.png" />⠀⠀⠀⠀⠀<br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/gpl-3.0.html">Licencia GNU General Publica (GNU GPL v3.0) -</a>
 <a rel="licencia" href="https://sfconservancy.org/">Software Freedom Conservancy.</a>
