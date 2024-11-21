@@ -16,7 +16,7 @@
   <meta name="Resource-type" content="Index">
   <meta name="Revisit-after" content="1 days">
   <meta name="robots" content="all">
- <title>Bienvenidos</title>
+<title>⠀</title>
 </head>
 <body>
 
@@ -48,14 +48,13 @@
 
 ---
 
-<p align="left">
-  <img src="./src/svg-png/4k-ultra-hd.svg" width="210">
+<p align="center">
+  <a href="https://github.com/datagroupssl/datagroupssl/issues"><img src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=issue-opened" alt="open issue"></a>
+  <a href="https://github.com/datagroupssl/datagroupssl/pulls"><img src="https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&amp;logo=comment-discussion&amp;logoColor=black" alt="discuss"></a>
+  <a href="https://github.com/datagroupssl?tab=stars"><img src="https://custom-icon-badges.demolab.com/badge/-Give%20me%20a%20Start-gold?style=for-the-badge&amp;logo=star&amp;logoColor=black" alt="stargazers"></a>
+  <a href="#" title="Ser  Patrocinador"><img src="https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&amp;logo=heart&amp;logoColor=white" alt="Sponsor with Github"></a>
+  <img src="https://custom-icon-badges.demolab.com/badge/-GE FORCE RTX 4080-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=nVIDIA" alt="open issue">
 </p>
-
-<a href="https://github.com/datagroupssl"><img src="https://img.shields.io/badge/-datagroupssl.me-47CCCC?style=flat&amp;logo=Google-Chrome&amp;logoColor=white&amp;link=https://github.com/datagroupssl" alt="Website Badge"></a>
-<a href="https://t.me/zerhocool"><img src="https://img.shields.io/badge/-@zerhocool-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=telegram&amp;logoColor=white&amp;link=https://t.me/zerhocool" alt="Telegram Badge"></a>
-<a href="https://www.youtube.com/@zerhocool"><img src="https://img.shields.io/badge/-@zerhocool-purple?style=flat&amp;logo=youtube&amp;logoColor=white&amp;link=https://www.youtube.com/@zerhocool" alt="Youtube Badge"></a>
-<a href="mailto:datagroupssl@gmail.com"><img src="https://img.shields.io/badge/-datagroupssl-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:datagroupssl@gmail.com" alt="Gmail Badge"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -73,14 +72,9 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" height="80"  />
 </p>
 
-<p align="center">
-  <a href="https://github.com/datagroupssl/datagroupssl/issues"><img src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=issue-opened" alt="open issue"></a>
-  <a href="https://github.com/datagroupssl/datagroupssl/pulls"><img src="https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&amp;logo=comment-discussion&amp;logoColor=black" alt="discuss"></a>
-  <a href="https://github.com/datagroupssl?tab=stars"><img src="https://custom-icon-badges.demolab.com/badge/-Give%20me%20a%20Start-gold?style=for-the-badge&amp;logo=star&amp;logoColor=black" alt="stargazers"></a>
-  <a href="#" title="Ser  Patrocinador"><img src="https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&amp;logo=heart&amp;logoColor=white" alt="Sponsor with Github"></a>
-  <img src="https://custom-icon-badges.demolab.com/badge/-GE FORCE RTX 4080-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=nVIDIA" alt="open issue">
+<p align="left">
+  <img src="./src/svg-png/4k-ultra-hd.svg" width="210">
 </p>
-
 <img src="https://i.imgur.com/BsT3Qux.gif" >
 
 <!-- INICIO QUIEN SOY -->
@@ -100,7 +94,7 @@
 
 <br>
 
-### 👱 Hola, soy Andres alias zerhocool un Developer Full Stack y Diseñador Grafico y VFX desde España al mundo volviendo a Github a pedido de un cliente especial como un desafio, con repositorios privados en otros servidores.
+### 👱 Hola, soy Andres alias zerhocool un Developer Full Stack, Diseñador Grafico y VFX desde España al mundo volviendo a Github a pedido de un cliente especial como un desafio, con repositorios privados en otros servidores.
 
 #### 🏰 Empresa:
 
@@ -156,7 +150,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,ts,java,markdown,nodejs,latex,postman,svg,flask,vue,vite,symfony,svelte,heroku,mongodb,jest,docker,aws,ps,ai,pr,ae,linux,git,github,githubactions,gitlab,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,bash,linux,flask,html,css,js,ts,java,markdown,nodejs,latex,postman,svg,vue,vite,symfony,svelte,heroku,mongodb,jest,docker,aws,ps,ai,pr,ae,git,github,githubactions,gitlab,vscode" />
   </a>
 </p>
 
@@ -229,17 +223,14 @@
 
 <p align="center">
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    2024 - Gitkraken
-  <img src="./src/svg-png/gitkraken.svg" width="50" alt="Logo">
+    <img src="https://img.shields.io/badge/Gitkraken%20PRO-%23FE519?logo=Gitkraken&amp;logoColor=white" alt="Gitkraken">
     &#8287;&#8287;&#8287;&#8287;&#8287;
   <img src="./src/svg-png/zerhocool.svg" width="300" alt="Contribucion">
   </p>
 
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    2024 - Github
-<img src="./src/svg-png/github.svg" width="50" alt="Logo">
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://img.shields.io/badge/Github%20PRO-%23FE519?logo=Github&amp;logoColor=white" alt="Github">
   <img src="./src/svg-png/datagroupssl.svg" width="300" alt="Contribucion">
 </p>
 
@@ -273,17 +264,13 @@
 
   <br>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="300" src="https://i.postimg.cc/0QTx2bNv/secretaria2.jpg">
 
 ## Póngase en contacto:
 
 ### Resuelva sus inquietudes sobre los productos, las ventas, el soporte, la capacitación, los servicios y otros temas.
 
 <a href="#"><img width="40px" alt="Horario" src="./src/svg-png/ng-europe.svg"/></a> Casi todos mis proyectos son código abierto e intento responder a todos los usuarios que necesiten ayuda con alguno de estos proyectos, obviamente, esto toma tiempo.
-
-<a href="#"><img width="40px" alt="Horario" src="./src/svg-png/ng-europe.svg"/></a> No obstante, si estás utilizando este proyecto y estás feliz con él o simplemente quieres animarme a que siga creando cosas, aquí tienes algunas maneras de hacerlo:
-
-- ✔ Darme créditos cuando estés utilizando este README, añadiendo un link a este repositorio ⭐
 
 <p align="left">
   <a target="_blank" href="https://github.com/datagroupssl">
@@ -303,7 +290,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="datagroupssl@gmail.com"><img width="230px" alt="Email" title="datagroupssl@gmail.com" src="https://custom-icon-badges.demolab.com/badge/-datagroupssl@gmail.com-purple?style=for-the-badge&logo=l&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img  alt="Secretaria" width="200" src="https://i.postimg.cc/0QTx2bNv/secretaria2.jpg">
 </p>
 
 ---
@@ -397,8 +383,9 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 🔹 Si tu gustó este README scanea el codigo QR, deja tu Like 👍, dándole una estrella (starring) y compartiendo el proyecto 🚀.
 
 <p align="center">
-  <a rel="licencia" href="https://github.com/datagroupssl"><img alt="Open Source " style="border-width:0" src="./src/svg-png/qr-code.svg" width="100" /></a>
+  <a rel="licencia" href="https://github.com/datagroupssl"><img alt="Open Source " style="border-width:0" src="./src/svg-png/qr-code.svg" width="140" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img alt="Coding" width="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Gracias+Por+Visitar+Mi+Perfil+!!!...)](https://github.com/datagroupssl)
@@ -407,7 +394,7 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 
 <!-- INICIO COPY  -->
 
-<p>Diseño y Desarrollo por DATA GROUP - © 2014-present - DATA GROUP - Todos los derechos reservados.</p>
+<p>Diseño y Desarrollo por <a href="https://t.me/zerhocool"><img src="https://img.shields.io/badge/-@zerhocool-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=telegram&amp;logoColor=white&amp;link=https://t.me/zerhocool" alt="Telegram Badge"></a>  - © 2010 - presente - DATA GROUP - Todos los derechos reservados.</p>
 
 <img alt="Licencia GNU General Publica " style="border-width:0" src="https://i.postimg.cc/PxWYdHPN/gplv3-with-text-136x68.png" />⠀⠀⠀⠀<img alt="Software Freedom Conservancy " style="border-width:0" src="https://i.postimg.cc/fb0Ygmsc/conservancy-header.png" />⠀⠀⠀⠀⠀<br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/gpl-3.0.html">Licencia GNU General Publica (GNU GPL v3.0) -</a>
 <a rel="licencia" href="https://sfconservancy.org/">Software Freedom Conservancy.</a>
@@ -422,3 +409,17 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 
 </html>
 
+<p align="center">
+  <a href="mailto:datagroupssl@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-datagroupssl@gmail.com-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=gmail" alt="Gmail"></a>
+  <a href="https://t.me/zerhocool"><img src="https://custom-icon-badges.demolab.com/badge/-@zerhocool-plum?style=for-the-badge&amp;logo=telegram&amp;logoColor=black" alt="Telegram"></a>
+  <a href="https://www.youtube.com/@zerhocool"><img src="https://custom-icon-badges.demolab.com/badge/-@zerhocool-gold?style=for-the-badge&amp;logo=youtube&amp;logoColor=black" alt="stargazers"></a>
+  <a href="#" title="Ser  Patrocinador"><img src="https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&amp;logo=location&amp;logoColor=white" alt="Sponsor with Github"></a>
+  <img src="https://custom-icon-badges.demolab.com/badge/-GE FORCE RTX 4080-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=server" alt="open issue">
+</p>
+
+<a href="https://github.com/datagroupssl"><img src="https://img.shields.io/badge/-datagroupssl.me-47CCCC?style=flat&amp;logo=Google-Chrome&amp;logoColor=white&amp;link=https://github.com/datagroupssl" alt="Website Badge"></a>
+<a href="https://t.me/zerhocool"><img src="https://img.shields.io/badge/-@zerhocool-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=telegram&amp;logoColor=white&amp;link=https://t.me/zerhocool" alt="Telegram Badge"></a>
+<a href="https://www.youtube.com/@zerhocool"><img src="https://img.shields.io/badge/-@zerhocool-purple?style=flat&amp;logo=youtube&amp;logoColor=white&amp;link=https://www.youtube.com/@zerhocool" alt="Youtube Badge"></a>
+<a href="mailto:datagroupssl@gmail.com"><img src="https://img.shields.io/badge/-datagroupssl-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:datagroupssl@gmail.com" alt="Gmail Badge"></a>
+
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
