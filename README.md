@@ -16,7 +16,7 @@
   <meta name="Resource-type" content="Index">
   <meta name="Revisit-after" content="1 days">
   <meta name="robots" content="all">
- 
+ <title>Bienvenidos</title>
 </head>
 <body>
 
@@ -29,14 +29,14 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Developer+%F0%9F%91%8B+Full+Stack;Python,+Vue,+Javascript.;10+a%C3%B1os+de+experiencia.+%F0%9F%98%84;Encantado+de+Conocerte+!!!..." alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Developer+%F0%9F%91%8B+Full+Stack;Python,+Vue,+Javascript.;15+a%C3%B1os+de+experiencia.+%F0%9F%98%84;Encantado+de+Conocerte+!!!..." alt="Typing SVG" /></a>
 </p>
 
 ---
 
 <!-- INICIO MENSAJE -->
 
-## 📌- Formamos mundos e identidades visuales, construidos sobre la base del pensamiento y el diseño interdisciplinarios, siempre desafiando el status quo. Fusionamos el arte del Codigo con el Diseño Grafico.
+## 📌- Formamos mundos e identidades visuales, construidos sobre la base del pensamiento y el diseño interdisciplinarios, siempre desafiando el status quo. Fusionamos el arte del Codigo con el Diseño Grafico y VFX.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -46,6 +46,8 @@
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">⠀<img src="https://img.shields.io/badge/HTML%20version%20-5.0.0-%23FE5196?logo=html5&amp;logoColor=white" alt="HTML">⠀<img src="https://img.shields.io/badge/Markdown-%23FE5196?logo=markdown&amp;logoColor=white" alt="Markdown">⠀<img src="https://img.shields.io/badge/Gitkraken%20PRO-%23FE519?logo=Gitkraken&amp;logoColor=white" alt="Gitkraken">⠀<img src="https://img.shields.io/badge/Archlinux%20PRO-%23FE9211?logo=Archlinux&amp;logoColor=white" alt="Archlinux">⠀<img src="https://img.shields.io/badge/GIT%20version-2.45.2-%23FE5196?logo=git&amp;logoColor=white" alt="Git">⠀<img src="https://img.shields.io/badge/NPM%20version-9.0.0-%23FE5196?logo=npm&amp;logoColor=white" alt="NPM">⠀<img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License">⠀<img src="https://img.shields.io/badge/Version-2.0.0-green.svg" alt="Version">⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits">⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">⠀<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website ">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">⠀<img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt">⠀<img src="https://madewithlove.now.sh/es?heart=true&amp;text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&amp;colorA=%23400000" alt="Made with love in Estonia">
 </p>
 
+---
+
 <p align="left">
   <img src="./src/svg-png/4k-ultra-hd.svg" width="210">
 </p>
@@ -54,7 +56,6 @@
 <a href="https://t.me/zerhocool"><img src="https://img.shields.io/badge/-@zerhocool-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=telegram&amp;logoColor=white&amp;link=https://t.me/zerhocool" alt="Telegram Badge"></a>
 <a href="https://www.youtube.com/@zerhocool"><img src="https://img.shields.io/badge/-@zerhocool-purple?style=flat&amp;logo=youtube&amp;logoColor=white&amp;link=https://www.youtube.com/@zerhocool" alt="Youtube Badge"></a>
 <a href="mailto:datagroupssl@gmail.com"><img src="https://img.shields.io/badge/-datagroupssl-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:datagroupssl@gmail.com" alt="Gmail Badge"></a>
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25956%26project%3D%26in=0">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -99,12 +100,13 @@
 
 <br>
 
-### 👱 Hola, soy Andres un Developer Full Stack y Diseñador Grafico, desde España al mundo volviendo a Github a pedido de un cliente especial como un desafio, con repositorios privados en otros servidores.
+### 👱 Hola, soy Andres alias zerhocool un Developer Full Stack y Diseñador Grafico y VFX desde España al mundo volviendo a Github a pedido de un cliente especial como un desafio, con repositorios privados en otros servidores.
 
 #### 🏰 Empresa:
+
 - DATA GROUP OÜ
 - Especialista: Python, Arch Linux, Javascript, Vue, Kali, VFX
-- Experiencia: + 10 años
+- Experiencia: + 15 años
 
 <img align="right" alt="Good Times" width="300" src="./src/svg-png/good-times.svg">
 
@@ -132,8 +134,8 @@
 
 #### 📗 Ultimo libro:
 
-- El libro negro del programador - El arte de la invisibilidad - Blue Team Handbook - Hacking Etico 101 - Biohacker - 
-El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
+- El libro negro del programador - El arte de la invisibilidad - Blue Team Handbook - Hacking Etico 101 - Biohacker -
+  El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
 
 ### INSIGNIAS: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Crown.webp" alt="Crown" width="35" height="35" />
 
@@ -154,7 +156,7 @@ El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,ts,java,markdown,nodejs,latex,postman,php,svg,flask,vue,vite,nextjs,symfony,svelte,heroku,mongodb,mysql,postgresql,vercel,jest,docker,aws,ps,ai,pr,ae,linux,git,github,githubactions,gitlab,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,ts,java,markdown,nodejs,latex,postman,svg,flask,vue,vite,symfony,svelte,heroku,mongodb,jest,docker,aws,ps,ai,pr,ae,linux,git,github,githubactions,gitlab,vscode" />
   </a>
 </p>
 
@@ -227,15 +229,16 @@ El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
 
 <p align="center">
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img style="border: 0px solid; display: inline;" alt="contador" src="https://websmultimedia.com/contador-de-visitas.php?id=17680">
-  ⠀<img src="./src/svg-png/gitkraken.svg" width="50" alt="Logo">
+    2024 - Gitkraken
+  <img src="./src/svg-png/gitkraken.svg" width="50" alt="Logo">
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="./src/svg-png/github.svg" width="50" alt="Logo"> <img style="border: 0px solid; display: inline;" alt="contador" src="https://websmultimedia.com/contador-de-visitas.php?id=17681">
-</p>
+  <img src="./src/svg-png/zerhocool.svg" width="300" alt="Contribucion">
+  </p>
 
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img src="./src/svg-png/zerhocool.svg" width="300" alt="Contribucion">
+    2024 - Github
+<img src="./src/svg-png/github.svg" width="50" alt="Logo">
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <img src="./src/svg-png/datagroupssl.svg" width="300" alt="Contribucion">
 </p>
@@ -250,6 +253,8 @@ El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 🕐 Actualización cada 24 hs, Estonia hora local.
 
@@ -352,7 +357,7 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 
 ### Puedes ayudarme invitandome un cafe.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20With%20Wings.webp" alt="Money With Wings" width="35" height="35" />
 
-<a href="https://payment-link.astropay.com/pnt5"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+<a href="https://paypal.me/datagroupssl?country.x=AR&locale.x=es_XC"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
 </details>
 
@@ -383,6 +388,8 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
   <img alt="Gobierno de España" style="border-width:0" src="https://i.postimg.cc/XYbJkD4W/espa-a.png" width="400" />
 </p>
 
+- Gobierno de Estonia y España.
+
 ---
 
 <!-- INICIO VISITAS  -->
@@ -390,7 +397,7 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 🔹 Si tu gustó este README scanea el codigo QR, deja tu Like 👍, dándole una estrella (starring) y compartiendo el proyecto 🚀.
 
 <p align="center">
-  <a rel="licencia" href="https://github.com/datagroupssl"><img alt="Open Source " style="border-width:0" src="https://i.postimg.cc/7hKLprFF/barcode.gif" width="100" /></a>
+  <a rel="licencia" href="https://github.com/datagroupssl"><img alt="Open Source " style="border-width:0" src="./src/svg-png/qr-code.svg" width="100" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -405,7 +412,6 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 <img alt="Licencia GNU General Publica " style="border-width:0" src="https://i.postimg.cc/PxWYdHPN/gplv3-with-text-136x68.png" />⠀⠀⠀⠀<img alt="Software Freedom Conservancy " style="border-width:0" src="https://i.postimg.cc/fb0Ygmsc/conservancy-header.png" />⠀⠀⠀⠀⠀<br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/gpl-3.0.html">Licencia GNU General Publica (GNU GPL v3.0) -</a>
 <a rel="licencia" href="https://sfconservancy.org/">Software Freedom Conservancy.</a>
 
-
 <p align="right">
   <a rel="licencia" href="https://www.geocerts.com/geotrust/geotrust-ov-wildcard-ssl"><img alt="Open Source " style="border-width:0" src="https://i.postimg.cc/xCcT1wyv/geotrust-trust-seal1.png" width="90" /></a>
 </p>
@@ -415,3 +421,4 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 </body>
 
 </html>
+
