@@ -16,20 +16,21 @@
   <meta name="Resource-type" content="Index">
   <meta name="Revisit-after" content="1 days">
   <meta name="robots" content="all">
-<title>⠀</title>
 </head>
 <body>
 
 <!-- CODIFICADO EN HTML5 -->
 <!-- INICIO BANNER -->
 
-<p><a href="https://postimg.cc/jC9c9gYQ"><img src="https://i.postimg.cc/3JrqkVL6/cover-repo.jpg" alt="cover-repo.jpg"></a></p>
+<p align="center">
+  <img src="https://i.postimg.cc/C5b0ZSZq/matrix.jpg" alt="Matrix">
+</p>
 
 <!-- INICIO TYPING  -->
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Developer+%F0%9F%91%8B+Full+Stack;Python,+Vue,+Javascript.;15+a%C3%B1os+de+experiencia.+%F0%9F%98%84;Encantado+de+Conocerte+!!!..." alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Developer+%F0%9F%91%8B+Full+Stack;Python,+Vue,+Javascript.;10+a%C3%B1os+de+experiencia.+%F0%9F%98%84;Encantado+de+Conocerte+!!!..." alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -38,12 +39,12 @@
 
 ## 📌- Formamos mundos e identidades visuales, construidos sobre la base del pensamiento y el diseño interdisciplinarios, siempre desafiando el status quo. Fusionamos el arte del Codigo con el Diseño Grafico y VFX.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separador" >
 
 <!-- INICIO BADGES -->
 
 <p align="left">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">⠀<img src="https://img.shields.io/badge/HTML%20version%20-5.0.0-%23FE5196?logo=html5&amp;logoColor=white" alt="HTML">⠀<img src="https://img.shields.io/badge/Markdown-%23FE5196?logo=markdown&amp;logoColor=white" alt="Markdown">⠀<img src="https://img.shields.io/badge/Gitkraken%20PRO-%23FE519?logo=Gitkraken&amp;logoColor=white" alt="Gitkraken">⠀<img src="https://img.shields.io/badge/Archlinux%20PRO-%23FE9211?logo=Archlinux&amp;logoColor=white" alt="Archlinux">⠀<img src="https://img.shields.io/badge/GIT%20version-2.45.2-%23FE5196?logo=git&amp;logoColor=white" alt="Git">⠀<img src="https://img.shields.io/badge/NPM%20version-9.0.0-%23FE5196?logo=npm&amp;logoColor=white" alt="NPM">⠀<img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License">⠀<img src="https://img.shields.io/badge/Version-2.0.0-green.svg" alt="Version">⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits">⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">⠀<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website ">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">⠀<img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt">⠀<img src="https://madewithlove.now.sh/es?heart=true&amp;text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&amp;colorA=%23400000" alt="Made with love in Estonia">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">⠀<img src="https://img.shields.io/badge/HTML%20version%20-5.0.0-%23FE5196?logo=html5&amp;logoColor=white" alt="HTML">⠀<img src="https://img.shields.io/badge/Markdown-%23FE5196?logo=markdown&amp;logoColor=white" alt="Markdown">⠀<img src="https://img.shields.io/badge/Gitkraken%20PRO-%23FE519?logo=Gitkraken&amp;logoColor=white" alt="Gitkraken">⠀<img src="https://img.shields.io/badge/Archlinux%20PRO-%23FE9211?logo=Archlinux&amp;logoColor=white" alt="Archlinux">⠀<img src="https://img.shields.io/badge/GIT%20version-2.45.2-%23FE5196?logo=git&amp;logoColor=white" alt="Git">⠀<img src="https://img.shields.io/badge/NPM%20version-9.0.0-%23FE5196?logo=npm&amp;logoColor=white" alt="NPM">⠀<img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License">⠀<img src="https://img.shields.io/badge/Version-1.0.0-green.svg" alt="Version">⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits">⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">⠀<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website ">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">⠀<img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt">⠀<img src="https://madewithlove.now.sh/es?heart=true&amp;text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&amp;colorA=%23400000" alt="Made with love in Estonia">
 </p>
 
 ---
@@ -56,7 +57,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/-GE FORCE RTX 4080-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=nVIDIA" alt="open issue">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separador" >
 
 <!-- INICIO NOVEDADES  -->
 
@@ -72,16 +73,15 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" height="80"  />
 </p>
 
-<p align="left">
-  <img src="./src/svg-png/4k-ultra-hd.svg" width="210">
+<p align="center">
+  <img src="./src/svg-png/4k-ultra-hd.svg" width="220"><img src="https://i.postimg.cc/7h2GpFrq/banner-1.gif" alt="banner-1">
 </p>
-<img src="https://i.imgur.com/BsT3Qux.gif" >
 
 <!-- INICIO QUIEN SOY -->
 
 <details>
     <summary>
-      <h2><img src="https://i.postimg.cc/KvyF6kVr/sobremi2.png" width="300px">⠀</h2>
+      <h2><img src="https://i.postimg.cc/KvyF6kVr/sobremi2.png" width="300px" alt="Banner">⠀</h2>
     </summary>
 
 ## QUIEN SOY !!!⠀ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Identification%20Card.webp" alt="Identification Card" width="35" height="35" />
@@ -94,13 +94,13 @@
 
 <br>
 
-### 👱 Hola, soy Andres alias zerhocool un Developer Full Stack, Diseñador Grafico y VFX desde España al mundo volviendo a Github a pedido de un cliente especial como un desafio, con repositorios privados en otros servidores.
+### 👱 Hola, soy Andres alias `zerhocool` un Developer Full Stack, Diseñador Grafico y VFX desde España al mundo volviendo a Github a pedido de un cliente especial como un desafio, con repositorios privados en otros servidores.
 
 #### 🏰 Empresa:
 
 - DATA GROUP OÜ
 - Especialista: Python, Arch Linux, Javascript, Vue, Kali, VFX
-- Experiencia: + 15 años
+- Experiencia: + 10 años
 
 <img align="right" alt="Good Times" width="300" src="./src/svg-png/good-times.svg">
 
@@ -150,19 +150,19 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,bash,linux,flask,html,css,js,ts,java,markdown,nodejs,latex,postman,svg,vue,vite,symfony,svelte,heroku,mongodb,jest,docker,aws,ps,ai,pr,ae,git,github,githubactions,gitlab,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,bash,linux,flask,html,css,js,ts,java,markdown,nodejs,latex,postman,svg,vue,vite,symfony,svelte,heroku,mongodb,jest,docker,aws,ps,ai,pr,ae,git,github,githubactions,gitlab,vscode" alt="Badges" />
   </a>
 </p>
 
 </details>
 
-<img src="https://i.imgur.com/BsT3Qux.gif">
+<img src="https://i.imgur.com/BsT3Qux.gif" alt="Separador" >
 
 <!-- INICIO CARPETAS  -->
 
 <details>
     <summary>
-      <h2><img src="https://i.postimg.cc/G369HmfH/carpetas.png" width="300px">⠀</h2>
+      <h2><img src="https://i.postimg.cc/G369HmfH/carpetas.png" width="300px" alt="Banner">⠀</h2>
     </summary>
 
 ### ULTIMOS REPOSITORIOS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="35" height="35" />
@@ -172,8 +172,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/datagroupssl/datagroupssl" target="blank"><img align="center" width="260px" src="https://i.postimg.cc/LssmxcWc/profile.jpg"/></a>&nbsp;&nbsp;<a href="https://github.com/datagroupssl/metrics" target="blank"><img align="center" width="260px" src="https://i.postimg.cc/g2HQrdpf/profile2.jpg"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/datagroupssl/ohmyzsh" target="blank"><img align="center" width="260px" src="https://i.postimg.cc/7ZZpB6H3/omz-ansi-github.png"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/datagroupssl/ohmyzsh" target="blank"><img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/pin/?username=datagroupssl&repo=ohmyzsh&theme=radical" alt="Ohmyzsh"></a>&nbsp;&nbsp;⠀<a href="https://github.com/datagroupssl/vite" target="blank"><img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/pin/?username=datagroupssl&repo=vite&theme=radical" alt="Vue"></a>&nbsp;&nbsp;⠀<a href="https://github.com/datagroupssl/metrics" target="blank"><img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/pin/?username=datagroupssl&repo=metrics&theme=radical" alt="Metrics"></a>&nbsp;&nbsp;⠀<a href="https://github.com/datagroupssl/vue" target="blank"><img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/pin/?username=datagroupssl&repo=vue&theme=radical" alt="Vue"></a>&nbsp;&nbsp;⠀
 </p>
 
 ### MUSICA QUE ME INSPIRA <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Mirror%20Ball.webp" alt="Mirror Ball" width="35" height="35" />
@@ -196,13 +195,13 @@
 
 </details>
 
-<img src="https://i.imgur.com/BsT3Qux.gif">
+<img src="https://i.imgur.com/BsT3Qux.gif" alt="Separador">
 
 <!-- INICIO ANALITICA -->
 
 <details>
   <summary>
-      <h2><img src="https://i.postimg.cc/PfCPXw2g/analitica.png" width="300px">⠀</h2>
+      <h2><img src="https://i.postimg.cc/PfCPXw2g/analitica.png" width="300px" alt="Banner">⠀</h2>
   </summary>
 
 ### ¡OBTEN TUS ESTADISTICAS GENERADAS DIARIAMENTE EN TU README!.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="35" height="35" />
@@ -222,16 +221,19 @@
 ### 🖥️ CONTRIBUCIONES
 
 <p align="center">
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://img.shields.io/badge/Gitkraken%20PRO-%23FE519?logo=Gitkraken&amp;logoColor=white" alt="Gitkraken">
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img src="./src/svg-png/zerhocool.svg" width="300" alt="Contribucion">
-  </p>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://img.shields.io/badge/Gitkraken%20PRO-%23FE519?logo=Gitkraken&amp;logoColor=white" alt="Gitkraken">
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="./src/svg-png/zerhocool.svg" width="250" alt="Contribucion">
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://img.shields.io/badge/Github%20PRO-%23FE5196?logo=Github&amplogoColor=white" alt="Github">
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="./src/svg-png/datagroupssl.svg" width="220" alt="Contribucion">
+</p>
 
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img src="https://img.shields.io/badge/Github%20PRO-%23FE519?logo=Github&amp;logoColor=white" alt="Github">
-  <img src="./src/svg-png/datagroupssl.svg" width="300" alt="Contribucion">
+  <a href="https://github.com/datagroupssl"><img width="260px" alt="Data Group" title="Data Group" src="https://github-contribution-stats.vercel.app/api/?username=datagroupssl"/></a>
 </p>
 
 ---
@@ -244,20 +246,20 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka readme-->
+<!--END_SECTION:waka readme-->
 
 🕐 Actualización cada 24 hs, Estonia hora local.
 
 </details>
 
-<img src="https://i.imgur.com/BsT3Qux.gif">
+<img src="https://i.imgur.com/BsT3Qux.gif" alt="Separador" >
 
 <!-- INICIO CONTACTO -->
 
 <details>
   <summary>
-    <h2><img src="https://i.postimg.cc/Hk9LZ4ky/contacto.png" width="300px">⠀</h2>
+    <h2><img src="https://i.postimg.cc/Hk9LZ4ky/contacto.png" width="300px" alt="Banner" >⠀</h2>
   </summary>
 
   <img src="https://custom-icon-badges.demolab.com/badge/-Install%20Package%20Credits%2002-gold?style=for-the-badge&amp;logo=package&amp;logoColor=black" alt="install package">
@@ -270,13 +272,6 @@
 
 ### Resuelva sus inquietudes sobre los productos, las ventas, el soporte, la capacitación, los servicios y otros temas.
 
-<a href="#"><img width="40px" alt="Horario" src="./src/svg-png/ng-europe.svg"/></a> Casi todos mis proyectos son código abierto e intento responder a todos los usuarios que necesiten ayuda con alguno de estos proyectos, obviamente, esto toma tiempo.
-
-<p align="left">
-  <a target="_blank" href="https://github.com/datagroupssl">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Share mi link-blue?style=for-the-badge&logo=share&logoColor=white" alt=""></a>
-</p>
-
 ### Ubicacion:
 
 <img src="https://custom-icon-badges.demolab.com/badge/España-Girona CP 17458-purple?style=for-the-badge&logo=location&logoColor=white" alt="">
@@ -288,8 +283,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="60" height="60" />
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="datagroupssl@gmail.com"><img width="230px" alt="Email" title="datagroupssl@gmail.com" src="https://custom-icon-badges.demolab.com/badge/-datagroupssl@gmail.com-purple?style=for-the-badge&logo=l&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<p align="center">
+  <a href="mailto:datagroupssl@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-datagroupssl@gmail.com-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=gmail" alt="Gmail"></a>
+  <a href="https://t.me/zerhocool"><img src="https://custom-icon-badges.demolab.com/badge/-@zerhocool-plum?style=for-the-badge&amp;logo=telegram&amp;logoColor=black" alt="Telegram"></a>
+  <a href="https://www.youtube.com/@zerhocool"><img src="https://custom-icon-badges.demolab.com/badge/-@zerhocool-gold?style=for-the-badge&amp;logo=youtube&amp;logoColor=black" alt="stargazers"></a>
 </p>
 
 ---
@@ -343,11 +342,11 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 
 ### Puedes ayudarme invitandome un cafe.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20With%20Wings.webp" alt="Money With Wings" width="35" height="35" />
 
-<a href="https://paypal.me/datagroupssl?country.x=AR&locale.x=es_XC"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+<a href="https://paypal.me/datagroupssl?country.x=AR&locale.x=es_XC"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Invitacion"  /></a>
 
 </details>
 
-<img src="https://i.imgur.com/BsT3Qux.gif">
+<img src="https://i.imgur.com/BsT3Qux.gif" alt="Separador" >
 
 <footer>
 
@@ -360,6 +359,9 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://aspidcars.com"><img width="200px" alt="Aspid Cars" title="Aspid Cars" src="https://i.postimg.cc/F1ttmqDH/Aspid.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+<p align="center">
+  <a href="https://postimg.cc/4HTzfP1P"><img src="https://i.postimg.cc/90D1BNR6/master.gif" alt="master.gif"></a>
 </p>
 
 - Gracias a estas empresas por su apoyo y confianza en este equipo.
@@ -394,7 +396,7 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 
 <!-- INICIO COPY  -->
 
-<p>Diseño y Desarrollo por <a href="https://t.me/zerhocool"><img src="https://img.shields.io/badge/-@zerhocool-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=telegram&amp;logoColor=white&amp;link=https://t.me/zerhocool" alt="Telegram Badge"></a>  - © 2010 - presente - DATA GROUP - Todos los derechos reservados.</p>
+<p>Diseño y Desarrollo por zerhocool - © 2013-2024 DATA GROUP - Todos los derechos reservados.</p>
 
 <img alt="Licencia GNU General Publica " style="border-width:0" src="https://i.postimg.cc/PxWYdHPN/gplv3-with-text-136x68.png" />⠀⠀⠀⠀<img alt="Software Freedom Conservancy " style="border-width:0" src="https://i.postimg.cc/fb0Ygmsc/conservancy-header.png" />⠀⠀⠀⠀⠀<br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/gpl-3.0.html">Licencia GNU General Publica (GNU GPL v3.0) -</a>
 <a rel="licencia" href="https://sfconservancy.org/">Software Freedom Conservancy.</a>
@@ -408,18 +410,3 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 </body>
 
 </html>
-
-<p align="center">
-  <a href="mailto:datagroupssl@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-datagroupssl@gmail.com-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=gmail" alt="Gmail"></a>
-  <a href="https://t.me/zerhocool"><img src="https://custom-icon-badges.demolab.com/badge/-@zerhocool-plum?style=for-the-badge&amp;logo=telegram&amp;logoColor=black" alt="Telegram"></a>
-  <a href="https://www.youtube.com/@zerhocool"><img src="https://custom-icon-badges.demolab.com/badge/-@zerhocool-gold?style=for-the-badge&amp;logo=youtube&amp;logoColor=black" alt="stargazers"></a>
-  <a href="#" title="Ser  Patrocinador"><img src="https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&amp;logo=location&amp;logoColor=white" alt="Sponsor with Github"></a>
-  <img src="https://custom-icon-badges.demolab.com/badge/-GE FORCE RTX 4080-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=server" alt="open issue">
-</p>
-
-<a href="https://github.com/datagroupssl"><img src="https://img.shields.io/badge/-datagroupssl.me-47CCCC?style=flat&amp;logo=Google-Chrome&amp;logoColor=white&amp;link=https://github.com/datagroupssl" alt="Website Badge"></a>
-<a href="https://t.me/zerhocool"><img src="https://img.shields.io/badge/-@zerhocool-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=telegram&amp;logoColor=white&amp;link=https://t.me/zerhocool" alt="Telegram Badge"></a>
-<a href="https://www.youtube.com/@zerhocool"><img src="https://img.shields.io/badge/-@zerhocool-purple?style=flat&amp;logo=youtube&amp;logoColor=white&amp;link=https://www.youtube.com/@zerhocool" alt="Youtube Badge"></a>
-<a href="mailto:datagroupssl@gmail.com"><img src="https://img.shields.io/badge/-datagroupssl-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:datagroupssl@gmail.com" alt="Gmail Badge"></a>
-
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">

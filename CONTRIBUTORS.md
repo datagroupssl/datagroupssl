@@ -154,7 +154,6 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 <img src="https://flagcdn.com/24x18/ee.png" srcset="https://flagcdn.com/48x36/ee.png 2x,
     https://flagcdn.com/72x54/ee.png 3x" width="24" height="18" alt="Estonia">⠀CVU: `0070067230004033073612`
 
-
 <a href="#"><img width="30px" alt="Bitcoin" title="Bitcoin" src="./src/svg-png/bitcoin-icon.svg"/></a>`1LiJgSrQc4tTyBcsVK6DMxMC3J8DJ5FzMD`
 
 <a href="#"><img width="30px" alt="USDT" title="Tether" src="./src/svg-png/tether-usdt-logo.svg"/></a> Red TRC20: `TRbepPuT16zyViiyr4vBrG614XhFcjL9WV`
@@ -173,4 +172,4 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 
 ## Licencia 📄
 
-<p>Diseño y Desarrollo por DATA GROUP - Copyrigh © 2014-present DATA GROUP - Todos los derechos reservados.</p>
+<p>Diseño y Desarrollo por zerhocool - Copyrigh © 2013-2024 DATA GROUP - Todos los derechos reservados.</p>

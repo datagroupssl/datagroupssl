@@ -1,6 +1,5 @@
 # CONTRIBUCIONES⠀
 
-
 <br />
 <div align="center">
   <a href="#">
@@ -417,19 +416,19 @@ Estas secciones no son necesarias, pero pueden ayudar a orientar las contribucio
 Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mundo:
 
 <p align="center">
-  <a href="#"><img width="60px" alt="Visa" title="Visa" src="./src/svg-png/visa.svg"/></a>
+  <a href="#"><img width="60px" alt="Visa" title="Visa" src="../src/svg-png/visa.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="60px" alt="Mastercard" title="Mastercard" src="./src/svg-png/mastercard-alt.svg"/></a>
+  <a href="#"><img width="60px" alt="Mastercard" title="Mastercard" src="../src/svg-png/mastercard-alt.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="60px" alt="Apple Pay" title="Apple Pay" src="./src/svg-png/apple-pay.svg"/></a>
+  <a href="#"><img width="60px" alt="Apple Pay" title="Apple Pay" src="../src/svg-png/apple-pay.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="60px" alt="Google Pay" title="Google Pay" src="./src/svg-png/google-pay.svg"/></a>
+  <a href="#"><img width="60px" alt="Google Pay" title="Google Pay" src="../src/svg-png/google-pay.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="50px" alt="Bitcoin" title="Bitcoin" src="./src/svg-png/bitcoin-icon.svg"/></a>
+  <a href="#"><img width="50px" alt="Bitcoin" title="Bitcoin" src="../src/svg-png/bitcoin-icon.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="#"><img width="50px" alt="TON" title="Toncoin" src="./src/svg-png/toncoin-ton-logo.svg"/></a>
+  <a href="#"><img width="50px" alt="TON" title="Toncoin" src="./src/svg-png/toncoin-ton-logo.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="#"><img width="50px" alt="USDT" title="Tether" src="./src/svg-png/tether-usdt-logo.svg"/></a>
+  <a href="#"><img width="50px" alt="USDT" title="Tether" src="../src/svg-png/tether-usdt-logo.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -441,17 +440,17 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 
 ---
 
-<details open> 
+<details>
   <summary><h3>🛎️ TRANSFERENCIAS</h3></summary>
 
 <img src="https://flagcdn.com/24x18/ee.png" srcset="https://flagcdn.com/48x36/ee.png 2x,
     https://flagcdn.com/72x54/ee.png 3x" width="24" height="18" alt="Estonia">⠀CVU: `0070067230004033073612`
 
-<a href="#"><img width="30px" alt="Bitcoin" title="Bitcoin" src="./src/svg-png/bitcoin-icon.svg"/></a>`1LiJgSrQc4tTyBcsVK6DMxMC3J8DJ5FzMD`
+<img width="30px" alt="Bitcoin" title="Bitcoin" src="../src/svg-png/bitcoin-icon.svg"/>⠀`1LiJgSrQc4tTyBcsVK6DMxMC3J8DJ5FzMD`
 
-<a href="#"><img width="30px" alt="USDT" title="Tether" src="./src/svg-png/tether-usdt-logo.svg"/></a> Red TRC20: `TRbepPuT16zyViiyr4vBrG614XhFcjL9WV`
+<img width="30px" alt="USDT" title="Tether" src="../src/svg-png/tether-usdt-logo.svg"/>⠀Red TRC20: `TRbepPuT16zyViiyr4vBrG614XhFcjL9WV`
 
-<a href="#"><img width="30px" alt="Bitcoin" title="Bitcoin" src="./src/svg-png/toncoin-ton-logo.svg"/></a>`UQAukJzjgRpPJ6aMSWqsttfiBycB7ekDcNvDE9TSQcJyRyzD`
+<img width="30px" alt="Bitcoin" title="Bitcoin" src="../src/svg-png/toncoin-ton-logo.svg"/>⠀`UQAukJzjgRpPJ6aMSWqsttfiBycB7ekDcNvDE9TSQcJyRyzD`
 
 </details>
 
@@ -487,6 +486,4 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 
 ## Licencia 📄
 
-<p>Diseño y Desarrollo por DATA GROUP - Copyrigh © 2014-present DATA GROUP - Todos los derechos reservados.</p>
-
----
+<p>Diseño y Desarrollo por zerhocool - © 2013-2024 DATA GROUP - Todos los derechos reservados.</p>

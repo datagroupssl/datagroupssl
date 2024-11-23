@@ -1,6 +1,6 @@
-# 📜📝 Registro de cambios
+# 📝 Registro de cambios
 
-Todos los cambios notables en el repositorio "/zerhocool/zerhocool" se documentarán en este archivo.
+Todos los cambios notables en el repositorio "/datagroupssl/datagroupssl" se documentarán en este archivo.
 
 El formato se basa en Keep a Changelog y este proyecto se adhiere a Semantic Versioning.
 
@@ -26,7 +26,7 @@ Description: ([#]
 
 - Mejoras esteticas generales en todo el readme
 - Nuevas secciones y funcionalidades
-- Banner nuevo 
+- Banner nuevo
 - Iconos nuevos
 - Banner con apoyo a Ucrania
 - Traduccion en varios idioma trabajando con la API EN PROCESO
