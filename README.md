@@ -1,25 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta charset="UTF-8"/>
-  <meta content="width=device-width, initial-scale=1" name="viewport" />
-  <meta name="DC.Language" scheme="RFC1766" content="Spanish">
-  <meta name="autor" content="Andres Antonio Cardoso">
-  <meta name="reply-to" content="datagroupssl@gmail.com">
-  <link rev="made" href="mailto:datagroupssl@gmail.com">
-  <meta name="description" content="Andres Antonio Cardoso, Developer Full Stack y Diseñador Grafico.">
-  <meta name="copyright" content="Propietario del copyright" />
-  <meta name="keywords" contennt="desarrollo web, website, front end developer">
-  <meta name="Resource-type" content="Index">
-  <meta name="Revisit-after" content="1 days">
-  <meta name="robots" content="all">
-</head>
-<body>
+# BIENVENIDOS
 
-<!-- CODIFICADO EN HTML5 -->
+<!-- CODIFICADO EN MD -->
 <!-- INICIO BANNER -->
 
 <p align="center">
@@ -74,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="./src/svg-png/4k-ultra-hd.svg" width="220"><img src="https://i.postimg.cc/7h2GpFrq/banner-1.gif" alt="banner-1">
+  <img src="https://i.postimg.cc/7h2GpFrq/banner-1.gif" alt="banner-1">
 </p>
 
 <!-- INICIO QUIEN SOY -->
@@ -96,11 +77,11 @@
 
 ### 👱 Hola, soy Andres alias `zerhocool` un Developer Full Stack, Diseñador Grafico y VFX desde España al mundo volviendo a Github a pedido de un cliente especial como un desafio, con repositorios privados en otros servidores.
 
-#### 🏰 Empresa:
+#### 🏰 EMPRESA
 
-- DATA GROUP OÜ
-- Especialista: Python, Arch Linux, Javascript, Vue, Kali, VFX
-- Experiencia: + 10 años
+ - [x]  DATA GROUP OÜ
+ - [x]  Especialista: Python, Arch Linux, Javascript, Vue, Kali, VFX
+ - [x]  Experiencia: + 10 años
 
 <img align="right" alt="Good Times" width="300" src="./src/svg-png/good-times.svg">
 
@@ -108,28 +89,31 @@
 
 <br>
 
-### EXTRAS: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="35" height="35" />
+#### 🧰 SISTEMA OPERATIVO
 
-#### 🖥️ Sistema Operativo:
+ - [x]  Arch Linux, teminal Xterm o eDEX-UI
+ - [x]  Windows 11 Pro, terminal Bash perzonalizada
 
-- Arch Linux, teminal Xterm o eDEX-UI
-- Windows 11 Pro, terminal Bash perzonalizada
+#### 🍸 INTERESES
 
-#### 🍸 Intereses:
+ - [x]  DevOps - Protocolos de Comunicación
+ - [x]  Seguridad informática - Criptografía
+ - [x]  Documentacion de Software - Prompt Engineering - AI
 
-- DevOps - Protocolos de Comunicación
-- Seguridad informática - Criptografía
-- Documentacion de Software - Prompt Engineering - AI
+#### 🕐 IDIOMAS
 
-#### 🕐 Idiomas:
+ - [x]  Aprendiendo Catalan y Estonio
+ - [x]  Mejorando mi Ingles
 
-- Aprendiendo Catalan y Estonio
-- Mejorando mi Ingles
+#### 📗 ULTIMOS LIBROS
 
-#### 📗 Ultimo libro:
-
-- El libro negro del programador - El arte de la invisibilidad - Blue Team Handbook - Hacking Etico 101 - Biohacker -
-  El libro blanco del hacker - Big Data, Machine Learning y Data Science en Python
+- [x]  El libro negro del programador
+- [x]  El arte de la invisibilidad
+- [x]  Blue Team Handbook
+- [x]  Hacking Etico 101
+- [x]  Biohacker
+- [x]  El libro blanco del hacker
+- [x]  Big Data, Machine Learning y Data Science en Python
 
 ### INSIGNIAS: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Crown.webp" alt="Crown" width="35" height="35" />
 
@@ -146,7 +130,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-### 📌- Lenguajes, Frameworks, Bases de Datos y Cloud Hosting, etc que utilizo en mi dia a dia.
+#### 📌- Lenguajes, Frameworks, Bases de Datos y Cloud Hosting, etc que utilizo en mi dia a dia.
 
 <p align="center">
   <a href="#">
@@ -204,13 +188,13 @@
       <h2><img src="https://i.postimg.cc/PfCPXw2g/analitica.png" width="300px" alt="Banner">⠀</h2>
   </summary>
 
-### ¡OBTEN TUS ESTADISTICAS GENERADAS DIARIAMENTE EN TU README!.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="35" height="35" />
+### OBTEN TUS ESTADISTICAS GENERADAS DIARIAMENTE EN TU README.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="35" height="35" />
 
 <img src="https://custom-icon-badges.demolab.com/badge/-Install%20Package%20Analytics%20-gold?style=for-the-badge&amp;logo=package&amp;logoColor=black" alt="install package">
 
 <br>
 
-<img align="right" alt="Estadisticas" width="300" src="./src/svg-png/homepage.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="center">
   <i>GA4 G-7X*08T**** - Visitas de perfil:</i>⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="35" />
@@ -246,22 +230,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<<<<<<< HEAD
 <!--START_SECTION:waka readme-->
 <!--END_SECTION:waka readme-->
-=======
-<!--START_SECTION:waka-->
-
-```txt
-Markdown   7 hrs 2 mins    ████████████████████▓░░░░   82.01 %
-YAML       1 hr 31 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-```
-
-<!--END_SECTION:waka-->
->>>>>>> fcf2df41c46b52e90ca88b4f651312692c450d3d
-
-🕐 Actualización cada 24 hs, Estonia hora local.
 
 </details>
 
@@ -303,8 +273,6 @@ JSON       0 secs          ░░░░░░░░░░░░░░░░░�
   <a href="https://www.youtube.com/@zerhocool"><img src="https://custom-icon-badges.demolab.com/badge/-@zerhocool-gold?style=for-the-badge&amp;logo=youtube&amp;logoColor=black" alt="stargazers"></a>
 </p>
 
----
-
 ## FORMAS DE PAGO⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Classical%20Building.webp" alt="Classical Building" width="35" height="35" />
 
 Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mundo:
@@ -326,14 +294,6 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<p align="center">
-  <a href="https://paypal.me/datagroupssl?country.x=AR&locale.x=es_XC" target="_blank">
-      <img width="200px" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
-</p>
-
----
-
 <details>
   <summary><h3>🛎️ TRANSFERENCIAS</h3></summary>
 
@@ -347,14 +307,6 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 <img width="30px" alt="Bitcoin" title="Bitcoin" src="./src/svg-png/toncoin-ton-logo.svg"/>⠀`UQAukJzjgRpPJ6aMSWqsttfiBycB7ekDcNvDE9TSQcJyRyzD`
 
 </details>
-
----
-
-🚦 - En Argentina Solo Dolares a la cotizacion `BLUE` del dia, en efectivo. `SIN EXEPCIONES`, SOLO CLIENTES.
-
-### Puedes ayudarme invitandome un cafe.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20With%20Wings.webp" alt="Money With Wings" width="35" height="35" />
-
-<a href="https://paypal.me/datagroupssl?country.x=AR&locale.x=es_XC"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Invitacion"  /></a>
 
 </details>
 
@@ -399,7 +351,9 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 <p align="center">
   <a rel="licencia" href="https://github.com/datagroupssl"><img alt="Open Source " style="border-width:0" src="./src/svg-png/qr-code.svg" width="140" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img alt="Coding" width="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+  <a href="https://paypal.me/datagroupssl?country.x=AR&locale.x=es_XC" target="_blank">
+      <img width="200px" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
+  </a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Gracias+Por+Visitar+Mi+Perfil+!!!...)](https://github.com/datagroupssl)
@@ -417,8 +371,3 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
   <a rel="licencia" href="https://www.geocerts.com/geotrust/geotrust-ov-wildcard-ssl"><img alt="Open Source " style="border-width:0" src="https://i.postimg.cc/xCcT1wyv/geotrust-trust-seal1.png" width="90" /></a>
 </p>
 
-</footer>
-
-</body>
-
-</html>

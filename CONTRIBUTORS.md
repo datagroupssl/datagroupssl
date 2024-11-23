@@ -140,14 +140,6 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<p align="center">
-  <a href="https://paypal.me/datagroupssl?country.x=AR&locale.x=es_XC" target="_blank">
-      <img width="200px" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
-</p>
-
----
-
 <details open> 
   <summary><h3>🛎️ TRANSFERENCIAS</h3></summary>
 
@@ -161,12 +153,6 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 <a href="#"><img width="30px" alt="Bitcoin" title="Bitcoin" src="./src/svg-png/toncoin-ton-logo.svg"/></a>`UQAukJzjgRpPJ6aMSWqsttfiBycB7ekDcNvDE9TSQcJyRyzD`
 
 </details>
-
----
-
-### Puedes ayudarme invitandome un cafe.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20With%20Wings.webp" alt="Money With Wings" width="35" height="35" />
-
-<a href="https://payment-link.astropay.com/pnt5"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
 ---
 
