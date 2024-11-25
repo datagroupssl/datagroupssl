@@ -229,9 +229,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
 </details>
 
 <img src="https://i.imgur.com/BsT3Qux.gif" alt="Separador" >
