@@ -238,5 +238,3 @@ Velocity JS is copyright 2014 Julian Shapiro, MIT License
 Pelican is licensed under AGPL v3.0. (Sources)
 
 ---
-
-<p>Diseño y Desarrollo por DATA GROUP - Copyrigh © 2014-present DATA GROUP - Todos los derechos reservados.</p>

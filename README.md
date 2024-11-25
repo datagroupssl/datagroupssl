@@ -28,9 +28,6 @@
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">⠀<img src="https://img.shields.io/badge/Gitkraken%20PRO-%23FE519?logo=Gitkraken&amp;logoColor=white" alt="Gitkraken">⠀<img src="https://img.shields.io/badge/Archlinux%20PRO-%23FE9211?logo=Archlinux&amp;logoColor=white" alt="Archlinux"><img src="https://img.shields.io/badge/HTML%20version%20-5.0.0-%23FE5196?logo=html5&amp;logoColor=white" alt="HTML">⠀<img src="https://img.shields.io/badge/Markdown-%23FE5196?logo=markdown&amp;logoColor=white" alt="Markdown">⠀<img src="https://img.shields.io/badge/GIT%20version-2.45.2-%23FE5196?logo=git&amp;logoColor=white" alt="Git">⠀<img src="https://img.shields.io/badge/NPM%20version-9.0.0-%23FE5196?logo=npm&amp;logoColor=white" alt="NPM">⠀<img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License">⠀<img src="https://img.shields.io/badge/Version-1.0.0-green.svg" alt="Version">⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits">⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">⠀<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website ">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">⠀<img src="https://img.shields.io/github/repo-size/datagroupssl/datagroupssl" alt="GitHub repo size">⠀<img src="https://img.shields.io/github/commit-activity/m/datagroupssl/datagroupssl" alt="GitHub commit activity"> <img src="https://madewithlove.now.sh/es?heart=true&amp;text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&amp;colorA=%23400000" alt="Made with love in Estonia">
 </p>
 
-<!-- [START BADGES] -->
-<!-- [END BADGES] -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separador" >
 
 <!-- INICIO NOVEDADES  -->
@@ -48,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/7h2GpFrq/banner-1.gif" alt="banner-1">
+  <img src="https://i.postimg.cc/2y60h83K/standard-1.gif" alt="banner-1">
 </p>
 
 <p align="center">
@@ -232,6 +229,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<a href="https://wakatime.com/badge/github/datagroupssl/datagroupssl"><img src="https://wakatime.com/badge/github/datagroupssl/datagroupssl.svg" alt="wakatime"></a>
+
 </details>
 
 <img src="https://i.imgur.com/BsT3Qux.gif" alt="Separador" >
@@ -361,7 +360,7 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 
 <!-- INICIO COPY  -->
 
-<p>Diseño y Desarrollo por zerhocool - © 2013-2024 DATA GROUP - Todos los derechos reservados.</p>
+<p>Copyright © 2013-2024 DATA GROUP - Todos los derechos reservados.</p>
 
 <img alt="Licencia GNU General Publica " style="border-width:0" src="https://i.postimg.cc/PxWYdHPN/gplv3-with-text-136x68.png" />⠀⠀⠀⠀<img alt="Software Freedom Conservancy " style="border-width:0" src="https://i.postimg.cc/fb0Ygmsc/conservancy-header.png" />⠀⠀⠀⠀⠀<br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/gpl-3.0.html">Licencia GNU General Publica (GNU GPL v3.0) -</a>
 <a rel="licencia" href="https://sfconservancy.org/">Software Freedom Conservancy.</a>

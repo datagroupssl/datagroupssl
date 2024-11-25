@@ -472,4 +472,4 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 
 ## Licencia 📄
 
-<p>Diseño y Desarrollo por zerhocool - © 2013-2024 DATA GROUP - Todos los derechos reservados.</p>
+<p>Copyright © 2013-2024 DATA GROUP - Todos los derechos reservados.</p>
