@@ -4,7 +4,7 @@
 <!-- INICIO BANNER -->
 
 <p align="center">
-  <img src="https://i.postimg.cc/C5b0ZSZq/matrix.jpg" alt="Matrix">
+  <img src="https://i.postimg.cc/T3bfg21L/header-min.png" alt="Matrix">
 </p>
 
 <!-- INICIO TYPING  -->
@@ -25,17 +25,7 @@
 <!-- INICIO BADGES -->
 
 <p align="left">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">⠀<img src="https://img.shields.io/badge/HTML%20version%20-5.0.0-%23FE5196?logo=html5&amp;logoColor=white" alt="HTML">⠀<img src="https://img.shields.io/badge/Markdown-%23FE5196?logo=markdown&amp;logoColor=white" alt="Markdown">⠀<img src="https://img.shields.io/badge/Gitkraken%20PRO-%23FE519?logo=Gitkraken&amp;logoColor=white" alt="Gitkraken">⠀<img src="https://img.shields.io/badge/Archlinux%20PRO-%23FE9211?logo=Archlinux&amp;logoColor=white" alt="Archlinux">⠀<img src="https://img.shields.io/badge/GIT%20version-2.45.2-%23FE5196?logo=git&amp;logoColor=white" alt="Git">⠀<img src="https://img.shields.io/badge/NPM%20version-9.0.0-%23FE5196?logo=npm&amp;logoColor=white" alt="NPM">⠀<img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License">⠀<img src="https://img.shields.io/badge/Version-1.0.0-green.svg" alt="Version">⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits">⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">⠀<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website ">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">⠀<img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt">⠀<img src="https://madewithlove.now.sh/es?heart=true&amp;text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&amp;colorA=%23400000" alt="Made with love in Estonia">
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/datagroupssl/datagroupssl/issues"><img src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=issue-opened" alt="open issue"></a>
-  <a href="https://github.com/datagroupssl/datagroupssl/pulls"><img src="https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&amp;logo=comment-discussion&amp;logoColor=black" alt="discuss"></a>
-  <a href="https://github.com/datagroupssl?tab=stars"><img src="https://custom-icon-badges.demolab.com/badge/-Give%20me%20a%20Start-gold?style=for-the-badge&amp;logo=star&amp;logoColor=black" alt="stargazers"></a>
-  <a href="#" title="Ser  Patrocinador"><img src="https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&amp;logo=heart&amp;logoColor=white" alt="Sponsor with Github"></a>
-  <img src="https://custom-icon-badges.demolab.com/badge/-GE FORCE RTX 4080-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=nVIDIA" alt="open issue">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">⠀<img src="https://img.shields.io/badge/Gitkraken%20PRO-%23FE519?logo=Gitkraken&amp;logoColor=white" alt="Gitkraken">⠀<img src="https://img.shields.io/badge/Archlinux%20PRO-%23FE9211?logo=Archlinux&amp;logoColor=white" alt="Archlinux"><img src="https://img.shields.io/badge/HTML%20version%20-5.0.0-%23FE5196?logo=html5&amp;logoColor=white" alt="HTML">⠀<img src="https://img.shields.io/badge/Markdown-%23FE5196?logo=markdown&amp;logoColor=white" alt="Markdown">⠀<img src="https://img.shields.io/badge/GIT%20version-2.45.2-%23FE5196?logo=git&amp;logoColor=white" alt="Git">⠀<img src="https://img.shields.io/badge/NPM%20version-9.0.0-%23FE5196?logo=npm&amp;logoColor=white" alt="NPM">⠀<img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License">⠀<img src="https://img.shields.io/badge/Version-1.0.0-green.svg" alt="Version">⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits">⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">⠀<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website ">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">⠀<img src="https://img.shields.io/github/repo-size/datagroupssl/datagroupssl" alt="GitHub repo size">⠀<img src="https://img.shields.io/github/commit-activity/m/datagroupssl/datagroupssl" alt="GitHub commit activity"> <img src="https://madewithlove.now.sh/es?heart=true&amp;text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&amp;colorA=%23400000" alt="Made with love in Estonia">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separador" >
@@ -58,6 +48,15 @@
   <img src="https://i.postimg.cc/7h2GpFrq/banner-1.gif" alt="banner-1">
 </p>
 
+<p align="center">
+  <a href="https://github.com/datagroupssl/datagroupssl/issues"><img src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=issue-opened" alt="open issue"></a>
+  <a href="https://github.com/datagroupssl/datagroupssl/pulls"><img src="https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&amp;logo=comment-discussion&amp;logoColor=black" alt="discuss"></a>
+  <a href="https://github.com/datagroupssl?tab=stars"><img src="https://custom-icon-badges.demolab.com/badge/-Give%20me%20a%20Start-gold?style=for-the-badge&amp;logo=star&amp;logoColor=black" alt="stargazers"></a>
+  <a href="#" title="Ser  Patrocinador"><img src="https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&amp;logo=heart&amp;logoColor=white" alt="Sponsor with Github"></a>
+  <img src="https://custom-icon-badges.demolab.com/badge/-GE FORCE RTX 4080-palegreen?style=for-the-badge&amp;logoColor=black&amp;logo=nVIDIA" alt="open issue">
+</p>
+
+<img src="https://i.imgur.com/BsT3Qux.gif" alt="Separador" >
 <!-- INICIO QUIEN SOY -->
 
 <details>
@@ -79,9 +78,9 @@
 
 #### 🏰 EMPRESA
 
- - [x]  DATA GROUP OÜ
- - [x]  Especialista: Python, Arch Linux, Javascript, Vue, Kali, VFX
- - [x]  Experiencia: + 10 años
+- [x] DATA GROUP OÜ
+- [x] Especialista: Python, Arch Linux, Javascript, Vue, Kali, VFX
+- [x] Experiencia: + 10 años
 
 <img align="right" alt="Good Times" width="300" src="./src/svg-png/good-times.svg">
 
@@ -91,29 +90,29 @@
 
 #### 🧰 SISTEMA OPERATIVO
 
- - [x]  Arch Linux, teminal Xterm o eDEX-UI
- - [x]  Windows 11 Pro, terminal Bash perzonalizada
+- [x] Arch Linux, teminal Xterm o eDEX-UI
+- [x] Windows 11 Pro, terminal Bash perzonalizada
 
 #### 🍸 INTERESES
 
- - [x]  DevOps - Protocolos de Comunicación
- - [x]  Seguridad informática - Criptografía
- - [x]  Documentacion de Software - Prompt Engineering - AI
+- [x] DevOps - Protocolos de Comunicación
+- [x] Seguridad informática - Criptografía
+- [x] Documentacion de Software - Prompt Engineering - AI
 
 #### 🕐 IDIOMAS
 
- - [x]  Aprendiendo Catalan y Estonio
- - [x]  Mejorando mi Ingles
+- [x] Aprendiendo Catalan y Estonio
+- [x] Mejorando mi Ingles
 
 #### 📗 ULTIMOS LIBROS
 
-- [x]  El libro negro del programador
-- [x]  El arte de la invisibilidad
-- [x]  Blue Team Handbook
-- [x]  Hacking Etico 101
-- [x]  Biohacker
-- [x]  El libro blanco del hacker
-- [x]  Big Data, Machine Learning y Data Science en Python
+- [x] El libro negro del programador
+- [x] El arte de la invisibilidad
+- [x] Blue Team Handbook
+- [x] Hacking Etico 101
+- [x] Biohacker
+- [x] El libro blanco del hacker
+- [x] Big Data, Machine Learning y Data Science en Python
 
 ### INSIGNIAS: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Crown.webp" alt="Crown" width="35" height="35" />
 
@@ -230,8 +229,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<!--START_SECTION:waka readme-->
-<!--END_SECTION:waka readme-->
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 </details>
 
@@ -370,4 +369,3 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 <p align="right">
   <a rel="licencia" href="https://www.geocerts.com/geotrust/geotrust-ov-wildcard-ssl"><img alt="Open Source " style="border-width:0" src="https://i.postimg.cc/xCcT1wyv/geotrust-trust-seal1.png" width="90" /></a>
 </p>
-
