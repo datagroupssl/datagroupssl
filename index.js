@@ -21,7 +21,7 @@ function generateProgressBar() {
   return `{ ${progressBar} }`;
 }
 
-const readme = `\
+const status = `\
 ### Hi there 👋
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(
@@ -35,4 +35,4 @@ const readme = `\
 ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)\
 `;
 
-console.log(readme);
+console.log(status);

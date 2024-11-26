@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 # BIENVENIDOS, soy Andres
+
 <!-- CODIFICADO EN MD -->
 <!-- INICIO BANNER -->
 
@@ -335,7 +335,6 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
   <img alt="Gobierno de España" style="border-width:0" src="https://i.postimg.cc/XYbJkD4W/espa-a.png" width="400" />
 </p>
 
-
 <!-- INICIO VISITAS  -->
 
 🔹 Si tu gustó este README scanea el codigo QR, deja tu Like 👍, dándole una estrella (starring) y compartiendo el proyecto 🚀.
@@ -353,14 +352,3 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 ---
 
 <!-- INICIO COPY  -->
-=======
-### Hi there 👋
-
-⏳ Year progress { ███████████████████████████▁▁▁ } 90.34 %
-
----
-
-⏰ Updated on Tue, 26 Nov 2024 15:42:16 GMT
->>>>>>> 99fbce28e4da46e15190654552442bfa11e57bb0
-
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
