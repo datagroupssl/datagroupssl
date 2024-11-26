@@ -351,16 +351,6 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 
 ---
 
-### Hi there 👋
-
-⏳ Year progress { ███████████████████████████▁▁▁ } 90.31 %
-
-⏰ Updated on Tue, 26 Nov 2024 12:28:58 GMT
-
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
-
----
-
 <!-- INICIO COPY  -->
 
 <p>Copyright © 2013-2024 DATA GROUP - Todos los derechos reservados.</p>
