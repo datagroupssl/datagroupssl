@@ -37,7 +37,7 @@ jobs:
           # Optional - Calculate the height of the chart dynamically based on the number of languages and bar height
           WAKATIME_CHART_DYNAMIC_HEIGHT: true
           # Optional - Branch that needs to updated
-          BRANCH_NAME: main
+          BRANCH_NAME: master
           # Optional - Commit message on each update of charts
           COMMIT_MESSAGE: 📊 Update WakaCharts by WakaCharts-Bot
           # Optional - Name of the folder in which generated charts will be shown
