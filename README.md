@@ -1,5 +1,4 @@
-# BIENVENIDOS
-
+# BIENVENIDOS, soy Andres
 <!-- CODIFICADO EN MD -->
 <!-- INICIO BANNER -->
 
@@ -25,11 +24,12 @@
 <!-- INICIO BADGES -->
 
 <p align="left">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">⠀<img src="https://img.shields.io/badge/Gitkraken%20PRO-%23FE519?logo=Gitkraken&amp;logoColor=white" alt="Gitkraken">⠀<img src="https://img.shields.io/badge/Archlinux%20PRO-%23FE9211?logo=Archlinux&amp;logoColor=white" alt="Archlinux"><img src="https://img.shields.io/badge/HTML%20version%20-5.0.0-%23FE5196?logo=html5&amp;logoColor=white" alt="HTML">⠀<img src="https://img.shields.io/badge/Markdown-%23FE5196?logo=markdown&amp;logoColor=white" alt="Markdown">⠀<img src="https://img.shields.io/badge/GIT%20version-2.45.2-%23FE5196?logo=git&amp;logoColor=white" alt="Git">⠀<img src="https://img.shields.io/badge/NPM%20version-9.0.0-%23FE5196?logo=npm&amp;logoColor=white" alt="NPM">⠀<img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License">⠀<img src="https://img.shields.io/badge/Version-1.0.0-green.svg" alt="Version">⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits">⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">⠀<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website ">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge">⠀<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">⠀<img src="https://img.shields.io/github/repo-size/datagroupssl/datagroupssl" alt="GitHub repo size">⠀<img src="https://img.shields.io/github/commit-activity/m/datagroupssl/datagroupssl" alt="GitHub commit activity"> <img src="https://madewithlove.now.sh/es?heart=true&amp;text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&amp;colorA=%23400000" alt="Made with love in Estonia">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">ㅤ<img src="https://img.shields.io/badge/Gitkraken%20PRO-%23FE519?logo=Gitkraken&amp;logoColor=white" alt="Gitkraken">ㅤ<img src="https://img.shields.io/badge/Archlinux%20PRO-%23FE9211?logo=Archlinux&amp;logoColor=white" alt="Archlinux">ㅤ<img src="https://img.shields.io/badge/HTML%20version%20-5.0.0-%23FE5196?logo=html5&amp;logoColor=white" alt="HTML">ㅤ<img src="https://img.shields.io/badge/Markdown-%23FE5196?logo=markdown&amp;logoColor=white" alt="Markdown">ㅤ<img src="https://img.shields.io/badge/GIT%20version-2.45.2-%23FE5196?logo=git&amp;logoColor=white" alt="Git">⠀<img src="https://img.shields.io/badge/NPM%20version-9.0.0-%23FE5196?logo=npm&amp;logoColor=white" alt="NPM">ㅤ<img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License">⠀<img src="https://img.shields.io/badge/Version-1.0.0-green.svg" alt="Version">ㅤ<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits">ㅤ<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">ㅤ<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">⠀<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website ">ㅤ<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge">ㅤ<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">ㅤ<img src="https://img.shields.io/github/repo-size/datagroupssl/datagroupssl" alt="GitHub repo size">ㅤ<img src="https://img.shields.io/github/commit-activity/m/datagroupssl/datagroupssl" alt="GitHub commit activity">ㅤ
 </p>
 
-<!-- [START BADGES] -->
-<!-- [END BADGES] -->
+<p><a href="https://youtube.com/mouredevapps?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social" alt="YouTube Channel Subscribers"></a>
+<img src="https://img.shields.io/github/followers/datagroupssl?style=social" alt="GitHub Followers">
+<img src="https://img.shields.io/github/stars/datagroupssl?style=social" alt="GitHub Followers"></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separador" >
 
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/2y60h83K/standard-1.gif" alt="banner-1">
+  <img src="https://i.postimg.cc/2y60h83K/standard-1.gif" alt="banner-1" width="600" >
 </p>
 
 <p align="center">
@@ -136,7 +136,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,bash,linux,flask,html,css,js,ts,java,markdown,nodejs,latex,postman,svg,vue,vite,symfony,svelte,heroku,mongodb,jest,docker,aws,ps,ai,pr,ae,git,github,githubactions,gitlab,vscode" alt="Badges" />
+    <img src="https://skillicons.dev/icons?i=python,bash,linux,flask,html,css,js,ts,java,markdown,nodejs,latex,postman,svg,vue,vite,symfony,svelte,heroku,mongodb,jest,docker,aws,ps,ai,pr,ae,git,github,githubactions,gitlab,vscode,vim" alt="Badges" />
   </a>
 </p>
 
@@ -214,25 +214,20 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <img src="https://img.shields.io/badge/Github%20PRO-%23FE5196?logo=Github&amplogoColor=white" alt="Github">
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img src="./src/svg-png/datagroupssl.svg" width="220" alt="Contribucion">
-</p>
-
-<p align="center">
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/datagroupssl"><img width="260px" alt="Data Group" title="Data Group" src="https://github-contribution-stats.vercel.app/api/?username=datagroupssl"/></a>
+  <img src="./src/svg-png/datagroupssl.svg" width="220" alt="Contribucion"
 </p>
 
 ---
 
 ### ⚡ METRICAS
 
+<a href="https://wakatime.com/badge/github/datagroupssl/datagroupssl"><img src="https://wakatime.com/badge/github/datagroupssl/datagroupssl.svg" alt="wakatime"></a>
+
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <img width="500px" src="https://github-trophies.vercel.app/?username=datagroupssl" alt="datagroupssl">
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
-<a href="https://wakatime.com/badge/github/datagroupssl/datagroupssl"><img src="https://wakatime.com/badge/github/datagroupssl/datagroupssl.svg" alt="wakatime"></a>
 
 </details>
 
@@ -326,24 +321,19 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <p align="center">
-  <a href="https://postimg.cc/4HTzfP1P"><img src="https://i.postimg.cc/90D1BNR6/master.gif" alt="master.gif"></a>
+  <a href="https://postimg.cc/4HTzfP1P"><img src="https://i.postimg.cc/90D1BNR6/master.gif" alt="master.gif" width="600"  ></a>
 </p>
 
 - Gracias a estas empresas por su apoyo y confianza en este equipo.
 
 ---
 
-### AGRADECIMIENTOS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/1st%20Place%20Medal.webp" alt="1st Place Medal" width="35" height="35" />
+### CREDITOS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/1st%20Place%20Medal.webp" alt="1st Place Medal" width="35" height="35" />
 
 <p align="center">
-  <img alt="Republic of Estonia" style="border-width:0" src="./src/svg-png/estonia.png" width="90" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <img alt="Gobierno de España" style="border-width:0" src="https://i.postimg.cc/XYbJkD4W/espa-a.png" width="400" />
 </p>
 
-- Gobierno de Estonia y España.
-
----
 
 <!-- INICIO VISITAS  -->
 
@@ -358,6 +348,16 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Gracias+Por+Visitar+Mi+Perfil+!!!...)](https://github.com/datagroupssl)
+
+---
+
+### Hi there 👋
+
+⏳ Year progress { ███████████████████████████▁▁▁ } 90.31 %
+
+⏰ Updated on Tue, 26 Nov 2024 12:28:58 GMT
+
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 
 ---
 
