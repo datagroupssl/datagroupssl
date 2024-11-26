@@ -15,8 +15,8 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: "14.x"
-      - name: Update README.md
-        run: node index.js > README.md
+      - name: Update STATUS.md
+        run: node index.js > STATUS.md
       - name: Commit change & Push
         run: |
           git config user.name 'github-actions[bot]'
