@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BIENVENIDOS, soy Andres
 <!-- CODIFICADO EN MD -->
 <!-- INICIO BANNER -->
@@ -352,12 +353,14 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 ---
 
 <!-- INICIO COPY  -->
+=======
+### Hi there 👋
 
-<p>Copyright © 2013-2024 DATA GROUP - Todos los derechos reservados.</p>
+⏳ Year progress { ███████████████████████████▁▁▁ } 90.34 %
 
-<img alt="Licencia GNU General Publica " style="border-width:0" src="https://i.postimg.cc/PxWYdHPN/gplv3-with-text-136x68.png" />⠀⠀⠀⠀<img alt="Software Freedom Conservancy " style="border-width:0" src="https://i.postimg.cc/fb0Ygmsc/conservancy-header.png" />⠀⠀⠀⠀⠀<br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/gpl-3.0.html">Licencia GNU General Publica (GNU GPL v3.0) -</a>
-<a rel="licencia" href="https://sfconservancy.org/">Software Freedom Conservancy.</a>
+---
 
-<p align="right">
-  <a rel="licencia" href="https://www.geocerts.com/geotrust/geotrust-ov-wildcard-ssl"><img alt="Open Source " style="border-width:0" src="https://i.postimg.cc/xCcT1wyv/geotrust-trust-seal1.png" width="90" /></a>
-</p>
+⏰ Updated on Tue, 26 Nov 2024 15:42:16 GMT
+>>>>>>> 99fbce28e4da46e15190654552442bfa11e57bb0
+
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
