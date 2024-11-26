@@ -352,3 +352,13 @@ Medios de pagos que aceptamos Euros y Tarjetas de credito, USDT y TON en el mund
 ---
 
 <!-- INICIO COPY  -->
+
+<p>Copyright © 2013-2024 DATA GROUP - Todos los derechos reservados.</p>
+<p align="center">
+  <img alt="Open Source " style="border-width:0" src="https://i.postimg.cc/PxWYdHPN/gplv3-with-text-136x68.png" width="140" /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img width="200px" alt="Software Freedom" src="https://i.postimg.cc/fb0Ygmsc/conservancy-header.png"/>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img width="200px" alt="Copyleft.otg" src="https://i.postimg.cc/htY9rMk4/copyleftorg-green-stylized.png"/>
+  </a>
+</p>
