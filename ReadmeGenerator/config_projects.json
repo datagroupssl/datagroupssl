@@ -8,13 +8,6 @@
     "data": "`Tercera ley de Clarke; Cualquier tecnología suficientemente avanzada es indistinguible de la magia.`<br><em> 👱 Hola,este repositorio de actualiza periodicamente de forma automatica 🐑 ❤️</em>"
   },
   {
-    "type": "centerImage",
-    "data": {
-      "image": "https://i.postimg.cc/T3bfg21L/header-min.png",
-      "link": "https://github.com/datagroupssl/"
-    }
-  },
-  {
     "type": "categories",
     "data": {}
   },
@@ -60,7 +53,7 @@
         },
         {
           "alt": "Whatsapp",
-          "url": "#",
+          "url": "https://api.whatsapp.com/message/USYMHFXFGNLEB1?autoload=1&app_absent=0",
           "image": "ttps://res.cloudinary.com/dsckwiyuz/image/upload/v1732718064/whatsapp_hjwydf.svg"
         },
         {

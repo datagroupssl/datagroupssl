@@ -2,10 +2,6 @@
 
 # Hello, Andres is Here! 👋
 
-<p align="center">
-  <img src="https://i.postimg.cc/T3bfg21L/header-min.png" alt="Matrix">
-</p>
-
 `Tercera ley de Clarke; Cualquier tecnología suficientemente avanzada es indistinguible de la magia.`<br><em> Hola, este repositorio de actualiza periodicamente de forma automatica. 🐑 ❤️</em>
 
 <p align="center">
@@ -61,7 +57,7 @@
 <img align="center" width="50px" alt="Telegram" src="https://res.cloudinary.com/dsckwiyuz/image/upload/v1732817247/telegram_pexuvg.svg"/></a> &nbsp; &nbsp;
 <a href="mailto:datagroupssl@gmail.com" target="blank">
 <img align="center" width="50px" alt="Gmail" src="https://res.cloudinary.com/dsckwiyuz/image/upload/v1732817242/gmail_fw2wpz.svg"/></a> &nbsp; &nbsp;
-<a href="#" target="blank">
+<a href="https://api.whatsapp.com/message/USYMHFXFGNLEB1?autoload=1&app_absent=0" target="blank">
 <img align="center" width="50px" alt="Whatsapp" src="https://res.cloudinary.com/dsckwiyuz/image/upload/v1732718064/whatsapp_hjwydf.svg"/></a> &nbsp; &nbsp;
 <a href="https://www.youtube.com/channel/UCS_iMeH0P0nsIDPvBaJckOw" target="blank">
 <img align="center" width="50px" alt="Youtube" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/></a> &nbsp; &nbsp;
