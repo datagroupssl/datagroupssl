@@ -1,12 +1,12 @@
 <!-- @format -->
 
-# Bienvenidos, Andres esta aqui! 👋
+# Hello, Andres is Here! 👋
 
 <p align="center">
   <img src="https://i.postimg.cc/T3bfg21L/header-min.png" alt="Matrix">
 </p>
 
-`Tercera ley de Clarke; Cualquier tecnología suficientemente avanzada es indistinguible de la magia.`<br><em>👱 Hola, soy Andres alias `zerhocool` un Developer Full Stack, Diseñador Grafico y VFX desde España al mundo volviendo a Github a pedido de un cliente especial como un desafio, con repositorios privados en otros servidores. 🐑 ❤️</em>
+`Tercera ley de Clarke; Cualquier tecnología suficientemente avanzada es indistinguible de la magia.`<br><em> Hola, soy Andres alias `zerhocool` un Developer Full Stack, Diseñador Grafico y VFX desde España al mundo volviendo a Github a pedido de un cliente especial como un desafio, con repositorios privados en otros servidores. 🐑 ❤️</em>
 
 <p align="center"> 
 <a href="https://github.com/datagroupssl/datagroupssl/blob/master/lista.md"> 🧰 </a> 
@@ -16,7 +16,7 @@
 <img align="right" height="auto" width="300" src="https://i.postimg.cc/5tgQctHt/wallpaper5-min.jpg"/>
 </a>
 
-## Tecnologia ⌨
+## Tech Stack ⌨
 
 - Python, Flask ⭐
 - Bash, Linux, Arch Linux ⭐
@@ -26,11 +26,11 @@
 - PS, Ai, Pr, Af, SVG
 - Vim, Gitkraken, Git
 
-## La Empresa 🧸
+## About 🧸
 
-Formamos mundos e identidades visuales, construidos sobre la base del pensamiento y el diseño interdisciplinarios, siempre desafiando el status quo. Fusionamos el arte del Codigo con el Diseño Grafico y VFX. <br> <a href="https://pequesoft.net/">Mas informacion AQUI !!</a>
+Formamos mundos e identidades visuales, construidos sobre la base del pensamiento y el diseño interdisciplinarios, siempre desafiando el status quo. Fusionamos el arte del Codigo con el Diseño Grafico y VFX. <br> <a href="https://github.com/datagroupssl/datagroupssl/blob/master/perfil.md">Mas informacion AQUI !!</a>
 
-## Proyectos Increíbles 📚
+## Awesome Projects 📚
 
 - [OHMYZSH 👉 💻](https://github.com/datagroupssl/ohmyzsh)
 - [VUE 🤖 🎮 💻](https://github.com/datagroupssl/vue)
@@ -43,7 +43,7 @@ Formamos mundos e identidades visuales, construidos sobre la base del pensamient
 <br>
 
 <div align="center">
-<h3 align="center">Contacto ☎️</h3>
+<h3 align="center">Let's connect ☎️</h3>
 </div>
 <p align="center">
 <a href="https://t.me/zerhocool" target="blank">

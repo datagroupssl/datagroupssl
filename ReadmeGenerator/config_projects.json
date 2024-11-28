@@ -1,7 +1,7 @@
 [
   {
     "type": "intro",
-    "data": "Bienvenidos, Andres esta aqui! 👋"
+    "data": "Andres -category- projects! 👋"
   },
   {
     "type": "description",
@@ -26,9 +26,9 @@
     }
   },
   {
-    "type": "proyectosIncreibles",
+    "type": "awesomeProjects",
     "data": {
-      "title": "-category- Proyectos -emoji-",
+      "title": "-category- Projects -emoji-",
       "count": 9999,
       "showEmojis": true,
       "showScore": false,
@@ -46,7 +46,7 @@
   {
     "type": "social",
     "data": {
-      "title": "@<div align=\"center\">\n<h3 align=\"center\">Contacto ☎️</h3>\n</div>",
+      "title": "@<div align=\"center\">\n<h3 align=\"center\">Let's connect ☎️</h3>\n</div>",
       "social": [
         {
           "alt": "Telegram",

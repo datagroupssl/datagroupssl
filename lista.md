@@ -1,12 +1,12 @@
 <!-- @format -->
 
-# Bienvenidos, Andres esta aqui! 👋
+# Hello, Andres is Here! 👋
 
 <p align="center">
   <img src="https://i.postimg.cc/T3bfg21L/header-min.png" alt="Matrix">
 </p>
 
-`Tercera ley de Clarke; Cualquier tecnología suficientemente avanzada es indistinguible de la magia.`<br><em>👱 Hola,este repositorio de actualiza periodicamente de forma automatica 🐑 ❤️</em>
+`Tercera ley de Clarke; Cualquier tecnología suficientemente avanzada es indistinguible de la magia.`<br><em> Hola, este repositorio de actualiza periodicamente de forma automatica. 🐑 ❤️</em>
 
 <p align="center">
 <a href="https://github.com/datagroupssl/datagroupssl/blob/master/lista.md"> 🧰</a>
@@ -16,7 +16,7 @@
 <img align="right" height="auto" width="300" src="https://i.postimg.cc/5tgQctHt/wallpaper5-min.jpg"/>
 </a>
 
-## Repositorios 🎮
+## Projects 🎮
 
 - [Asteroids like game 🤖 🎮 💻](https://github.com/HectorPulido/Asteroids-like-game)
 - [Evolutionary neural networks on unity for bots 🤖 🎮](https://github.com/HectorPulido/Evolutionary-Neural-Networks-on-unity-for-bots)
@@ -54,7 +54,7 @@
 <br>
 
 <div align="center">
-<h3 align="center">Contacto ☎️</h3>
+<h3 align="center">Let's connect ☎️</h3>
 </div>
 <p align="center">
 <a href="https://t.me/zerhocool" target="blank">
@@ -70,4 +70,4 @@
 
 </p>
 
-<div align="center"><em><a href="https://github.com/datagroupssl">* Este es un archivo README generado automáticamente. Copyright © 2013-2024 DATA GROUP - Todos los derechos reservados.</a></em></div>
+<div align="center"><em><a href="https://github.com/datagroupssl">* This is an automatically generated README file. Copyright © 2013-2024 DATA GROUP - All rights reserved.</a></em></div>
