@@ -1,0 +1,83 @@
+[
+  {
+    "type": "intro",
+    "data": "Bienvenidos, Andres esta aqui! 👋"
+  },
+  {
+    "type": "description",
+    "data": "`Tercera ley de Clarke; Cualquier tecnología suficientemente avanzada es indistinguible de la magia.`<br><em> 👱 Hola,este repositorio de actualiza periodicamente de forma automatica 🐑 ❤️</em>"
+  },
+  {
+    "type": "centerImage",
+    "data": {
+      "image": "https://i.postimg.cc/T3bfg21L/header-min.png",
+      "link": "https://github.com/datagroupssl/"
+    }
+  },
+  {
+    "type": "categories",
+    "data": {}
+  },
+  {
+    "type": "rightImage",
+    "data": {
+      "image": "https://i.postimg.cc/5tgQctHt/wallpaper5-min.jpg",
+      "link": "https://github.com/datagroupssl"
+    }
+  },
+  {
+    "type": "proyectosIncreibles",
+    "data": {
+      "title": "-category- Proyectos -emoji-",
+      "count": 9999,
+      "showEmojis": true,
+      "showScore": false,
+      "ignore_pinned": false
+    }
+  },
+  {
+    "type": "space",
+    "data": {}
+  },
+  {
+    "type": "space",
+    "data": {}
+  },
+  {
+    "type": "social",
+    "data": {
+      "title": "@<div align=\"center\">\n<h3 align=\"center\">Contacto ☎️</h3>\n</div>",
+      "social": [
+        {
+          "alt": "Telegram",
+          "url": "https://t.me/zerhocool",
+          "image": "https://res.cloudinary.com/dsckwiyuz/image/upload/v1732817247/telegram_pexuvg.svg"
+        },
+        {
+          "alt": "Gmail",
+          "url": "mailto:datagroupssl@gmail.com",
+          "image": "https://res.cloudinary.com/dsckwiyuz/image/upload/v1732817242/gmail_fw2wpz.svg"
+        },
+        {
+          "alt": "Whatsapp",
+          "url": "#",
+          "image": "ttps://res.cloudinary.com/dsckwiyuz/image/upload/v1732718064/whatsapp_hjwydf.svg"
+        },
+        {
+          "alt": "Youtube",
+          "url": "https://www.youtube.com/@zerhocool",
+          "image": "https://res.cloudinary.com/dsckwiyuz/image/upload/v1732718064/youtube_jm0bhx.svg"
+        },
+        {
+          "alt": "GNU General Public License",
+          "url": "https://www.gnu.org/licenses/gpl-3.0.html",
+          "image": "https://i.postimg.cc/PxWYdHPN/gplv3-with-text-136x68.png"
+        }
+      ]
+    }
+  },
+  {
+    "type": "extra",
+    "data": "<div align=\"center\"><em><a href=\"https://github.com/datagroupssl\">* Este es un archivo README generado automáticamente. Copyright © 2013-2024 DATA GROUP - Todos los derechos reservados.</a></em></div>"
+  }
+]

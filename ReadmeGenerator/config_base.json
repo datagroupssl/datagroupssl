@@ -1,0 +1,124 @@
+[
+  {
+    "type": "config",
+    "data": {
+      "githubUser": "datagroupssl",
+      "categories": [
+        {
+          "name": "Lista",
+          "image": "🧰",
+          "tag": "lista"
+        }
+      ]
+    }
+  },
+  {
+    "type": "intro",
+    "data": "Bienvenidos, Andres esta aqui! 👋"
+  },
+  {
+    "type": "description",
+    "data": "`Tercera ley de Clarke; Cualquier tecnología suficientemente avanzada es indistinguible de la magia.`<br><em> 👱 Hola, soy Andres alias `zerhocool` un Developer Full Stack, Diseñador Grafico y VFX desde España al mundo volviendo a Github a pedido de un cliente especial como un desafio, con repositorios privados en otros servidores. 🐑 ❤️. 🐑 ❤️</em>"
+  },
+  {
+    "type": "centerImage",
+    "data": {
+      "image": "https://i.postimg.cc/T3bfg21L/header-min.png",
+      "link": "https://github.com/datagroupssl/"
+    }
+  },
+  {
+    "type": "categories",
+    "data": {}
+  },
+  {
+    "type": "rightImage",
+    "data": {
+      "image": "https://i.postimg.cc/5tgQctHt/wallpaper5-min.jpg",
+      "link": "https://github.com/datagroupssl/"
+    }
+  },
+  {
+    "type": "tecnologia",
+    "data": {
+      "title": "Tecnologia ⌨",
+      "tech": [
+        "Python, Flask ⭐",
+        "Bash, Linux, Arch Linux ⭐",
+        "HTML, CSS, JS, Java, TS ⭐",
+        "AWS, Docker",
+        "Vue, Vite ⭐",
+        " PS, Ai, Pr, Af, SVG",
+        "Vim, Gitkraken, Git"
+      ]
+    }
+  },
+  {
+    "type": "extra",
+    "data": {
+      "title": "La Empresa 🧸",
+      "data": "Formamos mundos e identidades visuales, construidos sobre la base del pensamiento y el diseño interdisciplinarios, siempre desafiando el status quo. Fusionamos el arte del Codigo con el Diseño Grafico y VFX. <br> <a href=\"https://pequesoft.net/\">Mas informacion AQUI !!</a>"
+    }
+  },
+  {
+    "type": "proyectosIncreibles",
+    "data": {
+      "title": "Proyectos Increíbles 📚",
+      "count": 3,
+      "showEmojis": true,
+      "showScore": false,
+      "ignore_pinned": true
+    }
+  },
+  {
+    "type": "youtube_video_list",
+    "data": {
+      "title": "Latest videos 📺",
+      "user_id": "https://www.youtube.com/watch?v=yHZMtyxgDyE",
+      "count": 3,
+      "show_thumbnails": true,
+      "show_titles": false
+    }
+  },
+  {
+    "type": "space",
+    "data": {}
+  },
+  {
+    "type": "social",
+    "data": {
+      "title": "@<div align=\"center\">\n<h3 align=\"center\">Contacto ☎️</h3>\n</div>",
+      "social": [
+        {
+          "alt": "Telegram",
+          "url": "https://t.me/zerhocool",
+          "image": "https://res.cloudinary.com/dsckwiyuz/image/upload/v1732817247/telegram_pexuvg.svg"
+        },
+        {
+          "alt": "Gmail",
+          "url": "mailto:datagroupssl@gmail.com",
+          "image": "https://res.cloudinary.com/dsckwiyuz/image/upload/v1732817242/gmail_fw2wpz.svg"
+        },
+        {
+          "alt": "Whatsapp",
+          "url": "#",
+          "image": "ttps://res.cloudinary.com/dsckwiyuz/image/upload/v1732718064/whatsapp_hjwydf.svg"
+        },
+        {
+          "alt": "Youtube",
+          "url": "https://www.youtube.com/@zerhocool",
+          "image": "https://res.cloudinary.com/dsckwiyuz/image/upload/v1732718064/youtube_jm0bhx.svg"
+        },
+        {
+          "alt": "GNU General Public License",
+          "url": "https://www.gnu.org/licenses/gpl-3.0.html",
+          "image": "https://i.postimg.cc/PxWYdHPN/gplv3-with-text-136x68.png"
+        }
+      ]
+    }
+  },
+  {
+    "type": "extra",
+    "data": "<div align=\"center\"><em><a href=\"https://github.com/datagroupssl\">* Este es un archivo README generado automáticamente. Copyright © 2013-2024 DATA GROUP - Todos los derechos reservados.</a></em></div>"
+  }
+]
