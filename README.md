@@ -1,40 +1,41 @@
 # Hello, Andres is Here! 👋
 
-
-`Tercera ley de Clarke; Cualquier tecnología suficientemente avanzada es indistinguible de la magia.`<br><em>  Hola, soy Andres alias `zerhocool` un Developer Full Stack, Diseñador Grafico y VFX desde España al mundo volviendo a Github a pedido de un cliente especial como un desafio, con repositorios privados en otros servidores. 🐑 ❤️</em>
-
+`Tercera ley de Clarke; Cualquier tecnología suficientemente avanzada es indistinguible de la magia.`<br><em> Hola, soy Andres alias `zerhocool` un Developer Full Stack, Diseñador Grafico y VFX desde España al mundo volviendo a Github a pedido de un cliente especial como un desafio, con repositorios privados en otros servidores. 🐑 ❤️</em>
 
 <p align="center">
 <a href="https://github.com/datagroupssl/datagroupssl/blob/master/list.md">🧰</a>
 </p>
 
-
 <a href="https://github.com/datagroupssl/">
 <img align="right" height="auto" width="300" src="https://i.postimg.cc/5tgQctHt/wallpaper5-min.jpg"/>
 </a>
 
-
 ## Tech Stack ⌨
+
 - Python, Flask ⭐
 - Bash, Linux, Arch Linux ⭐
 - HTML, CSS, JS, Java, TS ⭐
 - AWS, Docker
 - Vue, Vite ⭐
--  PS, Ai, Pr, Af, SVG
+- PS, Ai, Pr, Af, SVG
 - Vim, Gitkraken, Git
 
-
 ## About 🧸
-Formamos mundos e identidades visuales, construidos sobre la base del pensamiento y el diseño interdisciplinarios, siempre desafiando el status quo. Fusionamos el arte del Codigo con el Diseño Grafico y VFX. <br> <a href="https://github.com/datagroupssl/datagroupssl/blob/master/perfil.md">Mas informacion AQUI !!</a>
 
+Formamos mundos e identidades visuales, construidos sobre la base del pensamiento y el diseño interdisciplinarios, siempre desafiando el status quo. Fusionamos el arte del Codigo con el Diseño Grafico y VFX. <br> <a href="https://github.com/datagroupssl/datagroupssl/blob/master/perfil.md">Mas informacion AQUI !!</a>
 
 ## Awesome Projects 📚
 
+- [Symfony 🤖 🎮](https://github.com/datagroupssl/symfony)
+- [Ohmyzsh 🤖 🎮](https://github.com/datagroupssl/ohmyzsh)
+- [Vite 🤖 🎮](https://github.com/datagroupssl/vite)
+- [Metrics 🤖 🎮](https://github.com/datagroupssl/metrics)
 
+<br>
 
 ## Latest videos 📺
-<p align="center"></p>
 
+<p align="center"></p>
 
 <br>
 
@@ -55,6 +56,4 @@ Formamos mundos e identidades visuales, construidos sobre la base del pensamient
 
 </p>
 
-
 <div align="center"><em><a href="https://github.com/datagroupssl">* This is an automatically generated README file. Copyright © 2013-2024 DATA GROUP - All rights reserved.</a></em></div>
-
