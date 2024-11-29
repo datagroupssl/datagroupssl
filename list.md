@@ -1,7 +1,7 @@
-# Hello, Andres is Here! 👋
+# Andres List projects! 👋
 
 
-`Tercera ley de Clarke; Cualquier tecnología suficientemente avanzada es indistinguible de la magia.`<br><em>  Hola, soy Andres alias `zerhocool` un Developer Full Stack, Diseñador Grafico y VFX desde España al mundo volviendo a Github a pedido de un cliente especial como un desafio, con repositorios privados en otros servidores. 🐑 ❤️</em>
+`Tercera ley de Clarke; Cualquier tecnología suficientemente avanzada es indistinguible de la magia.`<br><em> 👱 Hola,este repositorio de actualiza periodicamente de forma automatica 🐑 ❤️</em>
 
 
 <p align="center">
@@ -9,32 +9,16 @@
 </p>
 
 
-<a href="https://github.com/datagroupssl/">
+<a href="https://github.com/datagroupssl">
 <img align="right" height="auto" width="300" src="https://i.postimg.cc/5tgQctHt/wallpaper5-min.jpg"/>
 </a>
 
 
-## Tech Stack ⌨
-- Python, Flask ⭐
-- Bash, Linux, Arch Linux ⭐
-- HTML, CSS, JS, Java, TS ⭐
-- AWS, Docker
-- Vue, Vite ⭐
--  PS, Ai, Pr, Af, SVG
-- Vim, Gitkraken, Git
-
-
-## About 🧸
-Formamos mundos e identidades visuales, construidos sobre la base del pensamiento y el diseño interdisciplinarios, siempre desafiando el status quo. Fusionamos el arte del Codigo con el Diseño Grafico y VFX. <br> <a href="https://github.com/datagroupssl/datagroupssl/blob/master/perfil.md">Mas informacion AQUI !!</a>
-
-
-## Awesome Projects 📚
+## List Projects 🧰
 
 
 
-## Latest videos 📺
-<p align="center"></p>
-
+<br>
 
 <br>
 
