@@ -5,9 +5,9 @@
       "githubUser": "datagroupssl",
       "categories": [
         {
-          "name": "Lista",
+          "name": "List",
           "emoji": "🧰",
-          "tag": "lista"
+          "tag": "list"
         }
       ]
     }
@@ -67,7 +67,7 @@
     "type": "youtube_video_list",
     "data": {
       "title": "Latest videos 📺",
-      "user_id": "https://www.youtube.com/watch?v=yHZMtyxgDyE",
+      "user_id": "https://www.youtube.com/watch?v=J25Up5uQDUI",
       "count": 3,
       "show_thumbnails": true,
       "show_titles": false
@@ -93,9 +93,9 @@
           "image": "https://res.cloudinary.com/dsckwiyuz/image/upload/v1732817242/gmail_fw2wpz.svg"
         },
         {
-          "alt": "Whatsapp",
-          "url": "https://api.whatsapp.com/message/USYMHFXFGNLEB1?autoload=1&app_absent=0",
-          "image": "ttps://res.cloudinary.com/dsckwiyuz/image/upload/v1732718064/whatsapp_hjwydf.svg"
+          "alt": "Github",
+          "url": "https://github.com/datagroupssl",
+          "image": "https://res.cloudinary.com/dsckwiyuz/image/upload/v1732817267/Github_dark_e9cyaa.svg"
         },
         {
           "alt": "Youtube",
@@ -112,6 +112,6 @@
   },
   {
     "type": "extra",
-    "data": "<div align=\"center\"><em><a href=\"https://github.com/datagroupssl\">* Este es un archivo README generado automáticamente. Copyright © 2013-2024 DATA GROUP - Todos los derechos reservados.</a></em></div>"
+    "data": "<div align=\"center\"><em><a href=\"https://github.com/datagroupssl\">* This is an automatically generated README file. Copyright © 2013-2024 DATA GROUP - All rights reserved.</a></em></div>"
   }
 ]

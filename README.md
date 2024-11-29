@@ -46,8 +46,8 @@ Formamos mundos e identidades visuales, construidos sobre la base del pensamient
 <img align="center" width="50px" alt="Telegram" src="https://res.cloudinary.com/dsckwiyuz/image/upload/v1732817247/telegram_pexuvg.svg"/></a> &nbsp; &nbsp;
 <a href="mailto:datagroupssl@gmail.com" target="blank">
 <img align="center" width="50px" alt="Gmail" src="https://res.cloudinary.com/dsckwiyuz/image/upload/v1732817242/gmail_fw2wpz.svg"/></a> &nbsp; &nbsp;
-<a href="https://api.whatsapp.com/message/USYMHFXFGNLEB1?autoload=1&app_absent=0" target="blank">
-<img align="center" width="50px" alt="Whatsapp" src="https://res.cloudinary.com/dsckwiyuz/image/upload/v1732718064/whatsapp_hjwydf.svg"/></a> &nbsp; &nbsp;
+<a href="https://github.com/datagroupssl" target="blank">
+<img align="center" width="50px" alt="Github" src="https://res.cloudinary.com/dsckwiyuz/image/upload/v1732817267/Github_dark_e9cyaa.svg"/></a> &nbsp; &nbsp;
 <a href="https://www.youtube.com/@zerhocool" target="blank">
 <img align="center" width="50px" alt="Youtube" src="https://res.cloudinary.com/dsckwiyuz/image/upload/v1732718064/youtube_jm0bhx.svg"/></a> &nbsp; &nbsp;
 <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="blank">
@@ -55,4 +55,4 @@ Formamos mundos e identidades visuales, construidos sobre la base del pensamient
 
 </p>
 
-<div align="center"><em><a href="https://github.com/datagroupssl">* Este es un archivo README generado automáticamente. Copyright © 2013-2024 DATA GROUP - Todos los derechos reservados.</a></em></div>
+<div align="center"><em><a href="https://github.com/datagroupssl">* This is an automatically generated README file. Copyright © 2013-2024 DATA GROUP - All rights reserved.</a></em></div>
