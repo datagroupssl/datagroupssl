@@ -34,8 +34,8 @@
 <img align="center" width="30px" alt="Github" src="https://res.cloudinary.com/dsckwiyuz/image/upload/v1732817267/Github_dark_e9cyaa.svg"/></a> &nbsp; &nbsp;
 <a href="https://www.youtube.com/@zerhocool" target="blank">
 <img align="center" width="30px" alt="Youtube" src="https://res.cloudinary.com/dsckwiyuz/image/upload/v1732718064/youtube_jm0bhx.svg"/></a> &nbsp; &nbsp;
-<a href="https://www.gnu.org/licenses/gpl-3.0.html" target="blank">
-<img align="center" width="30px" alt="GNU General Public License" src="https://i.postimg.cc/PxWYdHPN/gplv3-with-text-136x68.png"/></a> &nbsp; &nbsp;
+<a href="https://dev.to" target="blank">
+<img align="center" width="30px" alt="DEV" src="https://res.cloudinary.com/dsckwiyuz/image/upload/v1732840943/daily.dev_dark_bawkdy.svg"/></a> &nbsp; &nbsp;
 
 </p>
 
