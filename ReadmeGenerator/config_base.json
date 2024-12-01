@@ -5,9 +5,9 @@
       "githubUser": "datagroupssl",
       "categories": [
         {
-          "name": "List",
+          "name": "AI",
           "emoji": "🧰",
-          "tag": "list"
+          "tag": "ai"
         }
       ]
     }
@@ -39,10 +39,10 @@
         "Python, Flask ⭐",
         "Bash, Linux, Arch Linux ⭐",
         "HTML, CSS, JS, Java, TS ⭐",
-        "AWS, Docker",
+        "AWS, Docker 🔱",
         "Vue, Vite ⭐",
-        " PS, Ai, Pr, Af, SVG",
-        "Vim, Gitkraken, Git"
+        " PS, Ai, Pr, Af, SVG 🔱",
+        "Vim, Gitkraken, Git 🔱"
       ]
     }
   },

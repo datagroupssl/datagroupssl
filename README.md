@@ -3,7 +3,7 @@
 `Tercera ley de Clarke; Cualquier tecnología suficientemente avanzada es indistinguible de la magia.`<br><em> Hola, soy Andres alias `zerhocool` un Developer Full Stack, Diseñador Grafico y VFX desde España al mundo volviendo a Github a pedido de un cliente especial como un desafio, con repositorios privados en otros servidores. 🐑 ❤️</em>
 
 <p align="center">
-<a href="https://github.com/datagroupssl/datagroupssl/blob/master/list.md">🧰</a>
+<a href="https://github.com/datagroupssl/datagroupssl/blob/master/ai.md">🧰</a>
 </p>
 
 <a href="https://github.com/datagroupssl/">
@@ -15,10 +15,10 @@
 - Python, Flask ⭐
 - Bash, Linux, Arch Linux ⭐
 - HTML, CSS, JS, Java, TS ⭐
-- AWS, Docker
+- AWS, Docker 🔱
 - Vue, Vite ⭐
-- PS, Ai, Pr, Af, SVG
-- Vim, Gitkraken, Git
+- PS, Ai, Pr, Af, SVG 🔱
+- Vim, Gitkraken, Git 🔱
 
 ## About 🧸
 

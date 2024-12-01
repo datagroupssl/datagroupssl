@@ -1,16 +1,16 @@
-# Andres List Projects! 👋
+# Andres AI Projects! 👋
 
 `Tercera ley de Clarke; Cualquier tecnología suficientemente avanzada es indistinguible de la magia.`<br><em> Hola,este repositorio de actualiza periodicamente de forma automatica 🐑 ❤️</em>
 
 <p align="center">
-<a href="https://github.com/datagroupssl/datagroupssl/blob/master/lista.md">🧰</a>
+<a href="https://github.com/datagroupssl/datagroupssl/blob/master/ai.md">🧰</a>
 </p>
 
 <a href="https://github.com/datagroupssl">
 <img align="right" height="auto" width="300" src="https://i.postimg.cc/5tgQctHt/wallpaper5-min.jpg"/>
 </a>
 
-## List Projects 🧰
+## AI Projects 🧰
 
 - [Readme Data Group 🤖 🎮 💻](https://github.com/datagroupssl/datagroupssl)
 - [Symfony 🤖 🎮](https://github.com/datagroupssl/symfony)
