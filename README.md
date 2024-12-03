@@ -20,13 +20,8 @@
 - HTML, CSS, JS, Java, TS ⭐
 - AWS, Docker 🔱
 - Vue, Vite ⭐
-<<<<<<< HEAD
-- PS, Ai, Pr, Af, SVG 🔱
+-  PS, Ai, Pr, Af, SVG 🔱
 - Vim, Gitkraken, Git 🔱
-=======
--  PS, Ai, Pr, Af, SVG
-- Vim, Gitkraken, Git
->>>>>>> a86ea768f361117fa6862442fb73eef130a0b6f4
 
 
 ## About 🧸
