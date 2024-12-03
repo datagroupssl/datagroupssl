@@ -39,7 +39,7 @@ jobs:
           
       - name: Commit changes
         run: |
-          git add .
+          git add -a
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m 'deploy' 
