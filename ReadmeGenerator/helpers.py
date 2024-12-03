@@ -189,7 +189,7 @@ def set_config(github_user, categories):
 types = {
     "space": space,
     "intro": intro,
-    "centrrImage": center_image,
+    "centerImage": center_image,
     "description": description,
     "categories": get_categories,
     "rightImage": right_image,
