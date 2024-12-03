@@ -1,6 +1,13 @@
 # Andres AI projects! 👋
 
 
+<a href="https://github.com/datagroupssl">
+<img align="right" height="auto" width="auto" src="https://i.postimg.cc/5tgQctHt/wallpaper5-min.jpg"/>
+</a>
+
+<br>
+
+
 `Tercera ley de Clarke; Cualquier tecnología suficientemente avanzada es indistinguible de la magia.`<br><em> Hola,este repositorio de actualiza periodicamente de forma automatica 🐑 ❤️</em>
 
 
