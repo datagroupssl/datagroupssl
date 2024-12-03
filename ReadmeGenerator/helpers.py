@@ -9,6 +9,12 @@ def process_title(title, context):
         return title[1:]
     return f"## {title}"
 
+def center_image(data, _):
+    properties = 'align="right" height="auto" width="auto"'
+    return '<a href="{}">\n<img {} src="{}"/>\n</a>\n'.format(
+        data["link"], properties, data["image"]
+    )
+
 
 def intro(data, context):
     for key, value in context.items():
@@ -183,6 +189,7 @@ def set_config(github_user, categories):
 types = {
     "space": space,
     "intro": intro,
+    "centrrImage": center_image,
     "description": description,
     "categories": get_categories,
     "rightImage": right_image,
