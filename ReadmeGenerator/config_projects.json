@@ -4,6 +4,13 @@
     "data": "Andres -category- projects! 👋"
   },
   {
+    "type": "centerImage",
+    "data": {
+      "image": "https://i.postimg.cc/5tgQctHt/wallpaper5-min.jpg",
+      "link": "https://github.com/datagroupssl"
+    }
+  },
+  {
     "type": "description",
     "data": "`Tercera ley de Clarke; Cualquier tecnología suficientemente avanzada es indistinguible de la magia.`<br><em> Hola,este repositorio de actualiza periodicamente de forma automatica 🐑 ❤️</em>"
   },
@@ -22,10 +29,10 @@
     "type": "awesomeProjects",
     "data": {
       "title": "-category- Projects -emoji-",
-      "count": 9999,
+      "count": 15,
       "showEmojis": true,
-      "showScore": false,
-      "ignore_pinned": false
+      "showScore": true,
+      "ignore_pinned": true
     }
   },
   {
